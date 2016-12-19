@@ -1,0 +1,125 @@
+{
+    "station":
+    [
+     {
+     "name": "EDM - All Hits Remix",
+     "streamURL": "http://149.56.23.7:20252/;stream/1",
+     "imageURL": "station-radioRC-WohooRadio",
+     },
+     {
+     "name": "EDM - Auto DJ",
+     "streamURL": "http://autodj.hwdevstudio.com:12098/;stream/1",
+     "imageURL": "station-radioRC-AutoDJ",
+     },
+     {
+     "name": "EDM - Best Radio",
+     "streamURL": "http://stream.radiobest.eu:8000/192",
+     "imageURL": "station-radioRC-BestRadio",
+     },
+     {
+     "name": "EDM - DJ Tw34k",
+     "streamURL": "http://djtw34k.hwdevstudio.com:8017/;",
+     "imageURL": "station-radioRC-DJTw34k",
+     },
+     {
+     "name": "EDM - Dance 985",
+     "streamURL": "http://dance985.hwdevstudio.com:9996/;",
+     "imageURL": "station-radioRC-Dance985",
+     },
+     {
+     "name": "EDM - Dance Attack",
+     "streamURL": "http://uk4.internet-radio.com:8400/;",
+     "imageURL": "station-radioRC-DanceAttack",
+     },
+     {
+     "name": "EDM - Dance Enable",
+     "streamURL": "http://danceenable.hwdevstudio.com:35944/;",
+     "imageURL": "station-radioRC-DancaEnable",
+     },
+     {
+     "name": "EDM - GoHam Radio",
+     "streamURL": "http://uk4.internet-radio.com:15938/;",
+     "imageURL": "station-radioRC-GoHamRadio",
+     },
+     {
+     "name": "EDM - EDM Radio",
+     "streamURL": "http://s1.edmradio.ru:8000/128",
+     "imageURL": "station-radioRC-EDM",
+     },
+     {
+     "name": "EDM - EDM Spain",
+     "streamURL": "http://edmspain.hwdevstudio.com:3540/stream3",
+     "imageURL": "station-radioRC-EDMSpain",
+     },
+     {
+     "name": "EDM - EDM One",
+     "streamURL": "http://hemnos.cdnstream.com/1449_128",
+     "imageURL": "station-radioRC-EDMOne",
+     },
+     {
+     "name": "EDM - EDM Station",
+     "streamURL": "http://online.edmradiostation.com:8000/stream",
+     "imageURL": "station-radioRC-EDMRadiostation",
+     },
+     {
+     "name": "EDM - Fluxpavilion4",
+     "streamURL": "http://us2.internet-radio.com:8338/live",
+     "imageURL": "station-radioRC-Fluxpavilion4",
+     },
+     {
+     "name": "EDM - House Hold Radio",
+     "streamURL": "http://142.4.217.133:8398/;",
+     "imageURL": "station-radioRC-HouseHoldRadio",
+     },
+     {
+     "name": "EDM - Infused Radio",
+     "streamURL": "http://infusedradio.hwdevstudio.com:8240/;",
+     "imageURL": "station-radioRC-InfusedRadio",
+     },
+     {
+     "name": "EDM - M2 Club",
+     "streamURL": "http://m2club.hwdevstudio.com:443/;",
+     "imageURL": "station-radioRC-M2Club",
+     },
+     {
+     "name": "EDM - Positiva Mix",
+     "streamURL": "http://positivamix.hwdevstudio.com:8890/;stream/1",
+     "imageURL": "station-radioRC-PositivaMix",
+     },
+     {
+     "name": "EDM - Pulse Radio",
+     "streamURL": "http://us3.internet-radio.com:8087/;stream",
+     "imageURL": "station-radioRC-PulseEDM",
+     },
+     {
+     "name": "EDM - Real Dance Radio",
+     "streamURL": "http://uk4.internet-radio.com:10138/;stream.mp3",
+     "imageURL": "station-radioRC-RealDanceRadio",
+     },
+     {
+     "name": "EDM - Rhythm 86",
+     "streamURL": "http://rhythm86.hwdevstudio.com:8000/;",
+     "imageURL": "station-radioRC-Rhythm86",
+     },
+     {
+     "name": "EDM - The Mash Radio",
+     "streamURL": "http://us2.internet-radio.com:8214/live",
+     "imageURL": "station-radioRC-TheMashRadio",
+     },
+     {
+     "name": "EDM - TMB DJ Radio",
+     "streamURL": "http://tmbdjradio.hwdevstudio.com:8000/;",
+     "imageURL": "station-radioRC-TMBDJRadio",
+     },
+     {
+     "name": "EDM - TMD Radio",
+     "streamURL": "http://tmdradio.hwdevstudio.com:8223/;stream/1",
+     "imageURL": "station-radioRC-TMDRadio",
+     },
+     {
+     "name": "EDM - Ultra Radio",
+     "streamURL": "http://213.239.205.210:8010/;",
+     "imageURL": "station-radioRC-TorontoGlobal",
+     }
+     ]
+}

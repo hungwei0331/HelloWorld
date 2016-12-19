@@ -1,0 +1,152 @@
+{
+    "station":
+    [
+     {
+     "name": "Blues",
+     "streamURL": "http://79.120.77.11:9013/",
+     "imageURL": "station-Blues",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Classical",
+     "streamURL": "http://radioapp3rd.hwdevstudio.com:9069/",
+     "imageURL": "station-RadioCaprice-ClassicalPiano",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Country",
+     "streamURL": "http://radioapp4th.hwdevstudio.com:9049",
+     "imageURL": "station-RadioCaprice-Country",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Disco",
+     "streamURL": "http://radioapp4th.hwdevstudio.com:9039/",
+     "imageURL": "station-Disco",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "EDM",
+     "streamURL": "http://stream.radiobest.eu:8000/192",
+     "imageURL": "station-radioRC-BestRadio",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Electronic",
+     "streamURL": "http://s1.edmradio.ru:8000/128",
+     "imageURL": "station-radioRC-EDM",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Folk",
+     "streamURL": "http://89.205.127.244:8002/",
+     "imageURL": "station-FolkRadio-Folk",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Funk",
+     "streamURL": "http://79.111.119.111:9061/",
+     "imageURL": "station-Funk",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "HipHop",
+     "streamURL": "http://79.120.77.11:9067/",
+     "imageURL": "station-HipHop",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Jazz",
+     "streamURL": "http://79.120.77.11:9005/",
+     "imageURL": "station-Jazz",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "J-POP",
+     "streamURL": "http://radioapp1st.hwdevstudio.com:9065/",
+     "imageURL": "station-J-POP",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "K-POP",
+     "streamURL": "http://radioapp1st.hwdevstudio.com:9097/",
+     "imageURL": "station-K-POP",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Metal",
+     "streamURL": "http://173.245.78.90/;",
+     "imageURL": "station-MetalCore",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Pop",
+     "streamURL": "http://radioapp3rd.hwdevstudio.com:9103/",
+     "imageURL": "station-POPMusic",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "PostRock",
+     "streamURL": "http://radioapp2nd.hwdevstudio.com:9043/",
+     "imageURL": "station-radioRC-postRock",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Punk",
+     "streamURL": "http://radioapp4th.hwdevstudio.com:9043/",
+     "imageURL": "station-PunkRock",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Rap",
+     "streamURL": "http://79.120.77.11:9031/",
+     "imageURL": "station-Rap",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Reggae",
+     "streamURL": "http://radioapp3rd.hwdevstudio.com:9063/",
+     "imageURL": "station-Caprice-Reggae",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Rock",
+     "streamURL": "http://listen.djcmedia.com/rockmixxlow",
+     "imageURL": "station-Rock",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "R&B",
+     "streamURL": "http://79.120.77.11:9071/",
+     "imageURL": "station-R'n'B",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Shoegazing",
+     "streamURL": "http://radioapp1st.hwdevstudio.com:9077/",
+     "imageURL": "station-radioRC-shoegazing",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     }
+    ]
+}

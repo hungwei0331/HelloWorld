@@ -1,0 +1,264 @@
+{
+    "station":
+    [
+     {
+     "name": "Alternative Rock",
+     "streamURL": "http://radioapp1st.hwdevstudio.com:9037/",
+     "imageURL": "station-AlternativeRock",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Art Rock",
+     "streamURL": "http://radioapp3rd.hwdevstudio.com:9107/",
+     "imageURL": "station-ArtRock",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Blues Rock",
+     "streamURL": "http://radioapp3rd.hwdevstudio.com:9013/",
+     "imageURL": "station-BluesRock",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Britpop",
+     "streamURL": "http://radioapp3rd.hwdevstudio.com:9041/",
+     "imageURL": "station-Britpop",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Country Rock",
+     "streamURL": "http://radioapp1st.hwdevstudio.com:9041/",
+     "imageURL": "station-CountryRock",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Dark Wave",
+     "streamURL": "http://radioapp2nd.hwdevstudio.com:9073/",
+     "imageURL": "station-DarkWave",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Dream Pop",
+     "streamURL": "http://radioapp2nd.hwdevstudio.com:9039/",
+     "imageURL": "station-DreamPop",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Folk Rock",
+     "streamURL": "http://radioapp2nd.hwdevstudio.com:9097/",
+     "imageURL": "station-FolkRock",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Garage Rock",
+     "streamURL": "http://radioapp1st.hwdevstudio.com:9093/",
+     "imageURL": "station-GarageRock",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Gothic Rock",
+     "streamURL": "http://radioapp2nd.hwdevstudio.com:9041/",
+     "imageURL": "station-GothicRock",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Glam Rock",
+     "streamURL": "http://radioapp3rd.hwdevstudio.com:9055/",
+     "imageURL": "station-GlamRock",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Grunge",
+     "streamURL": "http://radioapp3rd.hwdevstudio.com:9011/",
+     "imageURL": "station-Grunge",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Hard Rock",
+     "streamURL": "http://radioapp4th.hwdevstudio.com:9109/",
+     "imageURL": "station-HardRock",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Indie Rock",
+     "streamURL": "http://radioapp3rd.hwdevstudio.com:9033/",
+     "imageURL": "station-IndieRock",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Instrumental Rock",
+     "streamURL": "http://radioapp3rd.hwdevstudio.com:9077/",
+     "imageURL": "station-InstrumentalRock",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Kraut Rock",
+     "streamURL": "http://radioapp1st.hwdevstudio.com:9089/",
+     "imageURL": "station-KrautRock",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Melodic Hard Rock",
+     "streamURL": "http://radioapp2nd.hwdevstudio.com:9051/",
+     "imageURL": "station-MelodicHardRock",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Metal Ballads",
+     "streamURL": "http://radioapp4th.hwdevstudio.com:9059/",
+     "imageURL": "station-MetalBallads",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Neo Progressive Rock",
+     "streamURL": "http://radioapp1st.hwdevstudio.com:9095/",
+     "imageURL": "station-NeoProgressiveRock",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "New Wave",
+     "streamURL": "http://radioapp3rd.hwdevstudio.com:9065/",
+     "imageURL": "station-NewWave",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Jazz Rock",
+     "streamURL": "http://radioapp1st.hwdevstudio.com:9007/",
+     "imageURL": "station-JazzRock",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "J-Rock",
+     "streamURL": "http://radioapp1st.hwdevstudio.com:9067/",
+     "imageURL": "station-J-Rock",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Pop Rock",
+     "streamURL": "http://radioapp4th.hwdevstudio.com:9105/",
+     "imageURL": "station-PopRock",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Progressive Rock",
+     "streamURL": "http://radioapp1st.hwdevstudio.com:9121/",
+     "imageURL": "station-ProgressiveRock",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Punk Rock",
+     "streamURL": "http://radioapp4th.hwdevstudio.com:9043/",
+     "imageURL": "station-PunkRock",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Psychedelic Rock",
+     "streamURL": "http://radioapp1st.hwdevstudio.com:9027/",
+     "imageURL": "station-PsychedelicRock",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Psychobilly",
+     "streamURL": "http://radioapp1st.hwdevstudio.com:9049/",
+     "imageURL": "station-Psychobilly",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Rock",
+     "streamURL": "http://radioapp4th.hwdevstudio.com:9007/",
+     "imageURL": "station-Rock",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Rock'n'Roll",
+     "streamURL": "http://radioapp4th.hwdevstudio.com:9041/",
+     "imageURL": "station-Rock'n'Roll",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Rockabilly",
+     "streamURL": "http://radioapp2nd.hwdevstudio.com:9107/",
+     "imageURL": "station-Rockabilly",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Southern Rock",
+     "streamURL": "http://radioapp2nd.hwdevstudio.com:9009/",
+     "imageURL": "station-SouthernRock",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Space Rock",
+     "streamURL": "http://radioapp1st.hwdevstudio.com:9035/",
+     "imageURL": "station-SpaceRock",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Stoner Rock",
+     "streamURL": "http://radioapp1st.hwdevstudio.com:9025/",
+     "imageURL": "station-StonerRock",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Street Punk",
+     "streamURL": "http://radioapp1st.hwdevstudio.com:9125/",
+     "imageURL": "station-StreetPunk",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Surf Rock",
+     "streamURL": "http://radioapp1st.hwdevstudio.com:9045/",
+     "imageURL": "station-SurfRock",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Symphonic Rock",
+     "streamURL": "http://radioapp3rd.hwdevstudio.com:9067/",
+     "imageURL": "station-SymphonicRock",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Twee Pop",
+     "streamURL": "http://radioapp1st.hwdevstudio.com:9031/",
+     "imageURL": "station-TweePop",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     }
+     ]
+}

@@ -1,0 +1,131 @@
+{
+    "station":
+    [
+     {
+     "name": "Accoustic Guitar",
+     "streamURL": "http://radioapp3rd.hwdevstudio.com:9073/",
+     "imageURL": "station-RadioCaprice-AccousticGuitar",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "Ballroom Dance",
+     "streamURL": "http://radioapp2nd.hwdevstudio.com:9089/",
+     "imageURL": "station-RadioCaprice-BallroomDance",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "Easy Listening",
+     "streamURL": "http://radioapp2nd.hwdevstudio.com:9015/",
+     "imageURL": "station-RadioCaprice-EasyListening",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "Experimental",
+     "streamURL": "http://radioapp1st.hwdevstudio.com:9109/",
+     "imageURL": "station-RadioCaprice-Experimental",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "Flute",
+     "streamURL": "http://radioapp2nd.hwdevstudio.com:9011/",
+     "imageURL": "station-RadioCaprice-Flute",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "Instrumental",
+     "streamURL": "http://radioapp4th.hwdevstudio.com:9065/",
+     "imageURL": "station-RadioCaprice-Instrumental",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "Relaxation",
+     "streamURL": "http://radioapp3rd.hwdevstudio.com:9109/",
+     "imageURL": "station-RadioCaprice-Relaxation",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "Meditation",
+     "streamURL": "http://radioapp4th.hwdevstudio.com:9081/",
+     "imageURL": "station-RadioCaprice-Meditation",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "Miscellaneous",
+     "streamURL": "http://radioapp4th.hwdevstudio.com:9001/",
+     "imageURL": "station-RadioCaprice-Miscellaneous",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "Modern Classical",
+     "streamURL": "http://radioapp3rd.hwdevstudio.com:9099/",
+     "imageURL": "station-RadioCaprice-ModernClassical",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "Neo Classical",
+     "streamURL": "http://radioapp3rd.hwdevstudio.com:9101/",
+     "imageURL": "station-RadioCaprice-NeoClassical",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "Organs",
+     "streamURL": "http://radioapp3rd.hwdevstudio.com:9079/",
+     "imageURL": "station-RadioCaprice-Organs",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "Piano",
+     "streamURL": "http://radioapp4th.hwdevstudio.com:9009/",
+     "imageURL": "station-RadioCaprice-Piano",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "R'n'B",
+     "streamURL": "http://radioapp4th.hwdevstudio.com:9107/",
+     "imageURL": "station-RadioCaprice-R'n'B",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "Romantic Collection",
+     "streamURL": "http://radioapp3rd.hwdevstudio.com:9121/",
+     "imageURL": "station-RadioCaprice-RomanticCollection",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "Saxophone",
+     "streamURL": "http://radioapp4th.hwdevstudio.com:9011/",
+     "imageURL": "station-RadioCaprice-Saxophone",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "Sound Of Nature",
+     "streamURL": "http://radioapp2nd.hwdevstudio.com:9083/",
+     "imageURL": "station-RadioCaprice-SoundOfNature",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "Vocal",
+     "streamURL": "http://radioapp4th.hwdevstudio.com:9063/",
+     "imageURL": "station-RadioCaprice-Vocal",
+     "desc": "",
+     "longDesc": ""
+     }
+     ]
+}

@@ -1,0 +1,96 @@
+{
+    "station":
+    [
+     {
+     "name": "Acoustic Blues",
+     "streamURL": "http://79.111.14.76:9071/",
+     "imageURL": "station-AcousticBlues",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "Blues",
+     "streamURL": "http://79.120.77.11:9013/",
+     "imageURL": "station-Blues",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "Chicago Blues",
+     "streamURL": "http://79.111.14.76:9091/",
+     "imageURL": "station-ChicagoBlues",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "Country Blues",
+     "streamURL": "http://79.120.77.11:9121/",
+     "imageURL": "station-CountryBlues",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "Delta Blues",
+     "streamURL": "http://79.120.77.11:9127/",
+     "imageURL": "station-DeltaBlues",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "Electric Blues",
+     "streamURL": "http://79.111.14.76:9007/",
+     "imageURL": "station-Electric",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "Funk",
+     "streamURL": "http://79.111.119.111:9061/",
+     "imageURL": "station-Funk",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "Gospel",
+     "streamURL": "http://79.111.14.76:9025/",
+     "imageURL": "station-Gospel",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "Harp Blues",
+     "streamURL": "http://79.120.39.202:9081/",
+     "imageURL": "station-HarpBlues",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "Heavy Blues",
+     "streamURL": "http://79.120.77.11:9119/",
+     "imageURL": "station-HeavyBlues",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "Neo Soul",
+     "streamURL": "http://79.120.39.202:9061/",
+     "imageURL": "station-NeoSoul",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "R'n'B",
+     "streamURL": "http://79.120.77.11:9071/",
+     "imageURL": "station-R'n'B",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "Soul Blues",
+     "streamURL": "http://79.111.14.76:9123/",
+     "imageURL": "station-SoulBlue",
+     "desc": "",
+     "longDesc": ""
+     }
+     ]
+}

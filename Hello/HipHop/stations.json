@@ -1,0 +1,68 @@
+{
+    "station":
+    [
+     {
+     "name": "181.FM The Beat",
+     "streamURL": "http://listen.181fm.com/181-beat_64k.aac?noPreRoll=true",
+     "imageURL": "station-181.FMTheBeat",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "4ever HipHop",
+     "streamURL": "http://stream3.laut.fm/hiphop-forever",
+     "imageURL": "station-HipHop4ever",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "Abstract HipHop",
+     "streamURL": "http://79.111.14.76:9093/",
+     "imageURL": "station-AbstractHipHop",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "East Coast Rap / HipHop",
+     "streamURL": "http://79.111.14.76:9111/",
+     "imageURL": "station-EastCoastHipHop",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "HipHop",
+     "streamURL": "http://79.120.77.11:9067/",
+     "imageURL": "station-HipHop",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "Rap",
+     "streamURL": "http://79.120.77.11:9031/",
+     "imageURL": "station-Rap",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "Southern Rap / HipHop",
+     "streamURL": "http://79.111.119.111:9129/",
+     "imageURL": "station-SouthernRap",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "Underground Rap / HipHop",
+     "streamURL": "http://79.111.14.76:9115/",
+     "imageURL": "station-UndergroundRap",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "West Coast Rap / HipHop",
+     "streamURL": "http://79.120.39.202:9059/",
+     "imageURL": "station-WestCoastHipHop",
+     "desc": "",
+     "longDesc": ""
+     }
+     ]
+}

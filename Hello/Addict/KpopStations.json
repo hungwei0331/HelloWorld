@@ -1,0 +1,103 @@
+{
+    "station":
+    [
+     {
+     "name": "K - POP",
+     "streamURL": "http://koreaaewen.hwdevstudio.com:8001/mobile",
+     "imageURL": "station-AewenRadio",
+     "desc": "Aewen Radio",
+     "longDesc": ""
+     },
+     {
+     "name": "K - POP",
+     "streamURL": "http://koreabigbradio.hwdevstudio.com:9002/;",
+     "imageURL": "station-BigBRadio-1",
+     "desc": "Big B Radio",
+     "longDesc": ""
+     },
+     {
+     "name": "K - POP",
+     "streamURL": "http://cast.cc:8888/;7481479083291727stream.nsv",
+     "imageURL": "station-Cast.CC",
+     "desc": "Cast.CC",
+     "longDesc": ""
+     },
+     {
+     "name": "K - POP",
+     "streamURL": "http://37.187.250.76:9860/;stream/1",
+     "imageURL": "station-ConnectionAqp",
+     "desc": "Connection Aqp",
+     "longDesc": ""
+     },
+     {
+     "name": "K - POP",
+     "streamURL": "http://koreageberacion.hwdevstudio.com:9974/",
+     "imageURL": "station-Geberacion",
+     "desc": "Geberacion",
+     "longDesc": ""
+     },
+     {
+     "name": "K - POP",
+     "streamURL": "http://192.99.14.225:9962/;",
+     "imageURL": "station-Generaction",
+     "desc": "Generaction",
+     "longDesc": ""
+     },
+     {
+     "name": "K - POP",
+     "streamURL": "http://koreagkpop.hwdevstudio.com:9970/",
+     "imageURL": "station-G-Kpop",
+     "desc": "G-Kpop",
+     "longDesc": ""
+     },
+     {
+     "name": "K - POP",
+     "streamURL": "http://cd09.128.music.static.jango.com/music/05/60/06/0560069319.mp3",
+     "imageURL": "station-Jango.com",
+     "desc": "Jango.com",
+     "longDesc": ""
+     },
+     {
+     "name": "K - POP",
+     "streamURL": "http://stream.omgkpop.com:8234/stream",
+     "imageURL": "station-OMGKpop",
+     "desc": "OMG Kpop",
+     "longDesc": ""
+     },
+     {
+     "name": "K - POP",
+     "streamURL": "http://koreakoreapop.hwdevstudio.com:8226/",
+     "imageURL": "station-KoreaPop",
+     "desc": "Korea Pop",
+     "longDesc": ""
+     },
+     {
+     "name": "K - POP",
+     "streamURL": "http://rosetta.shoutca.st:8325/",
+     "imageURL": "station-KpopRepaly",
+     "desc": "Kpop Repaly",
+     "longDesc": ""
+     },
+     {
+     "name": "K - POP",
+     "streamURL": "http://koreakpopway.hwdevstudio.com:4906/Live",
+     "imageURL": "station-Kpopway",
+     "desc": "Kpop Way",
+     "longDesc": ""
+     },
+     {
+     "name": "K - POP",
+     "streamURL": "http://stm11.srvstm.com:12710/",
+     "imageURL": "station-PowerKpop",
+     "desc": "Power Kpop",
+     "longDesc": ""
+     },
+     {
+     "name": "K - POP",
+     "streamURL": "http://radioapp1st.hwdevstudio.com:9097/",
+     "imageURL": "station-radioRC",
+     "desc": "Rad Caprice",
+     "longDesc": ""
+     }
+     ]
+}

@@ -1,0 +1,89 @@
+{
+    "station":
+    [
+     {
+     "name": "Dance POP",
+     "streamURL": "http://radioapp4th.hwdevstudio.com:9053/",
+     "imageURL": "station-DancePOP",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Disco",
+     "streamURL": "http://radioapp4th.hwdevstudio.com:9039/",
+     "imageURL": "station-Disco",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Euro Dance",
+     "streamURL": "http://radioapp3rd.hwdevstudio.com:9003/",
+     "imageURL": "station-EuroDance",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Euro Disco",
+     "streamURL": "http://radioapp1st.hwdevstudio.com:9029/",
+     "imageURL": "station-EuroDisco",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Italo Disco",
+     "streamURL": "http://radioapp1st.hwdevstudio.com:9013/",
+     "imageURL": "station-ItaloDisco",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "J-POP",
+     "streamURL": "http://radioapp1st.hwdevstudio.com:9065/",
+     "imageURL": "station-J-POP",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "K-POP",
+     "streamURL": "http://radioapp1st.hwdevstudio.com:9097/",
+     "imageURL": "station-K-POP",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Latin POP",
+     "streamURL": "http://radioapp1st.hwdevstudio.com:9051/",
+     "imageURL": "station-LatinPOP",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Nu Disco",
+     "streamURL": "http://radioapp1st.hwdevstudio.com:9081/",
+     "imageURL": "station-NuDisco",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "POP Ballds",
+     "streamURL": "http://radioapp4th.hwdevstudio.com:9061/",
+     "imageURL": "station-POPBallds",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "POP Music",
+     "streamURL": "http://radioapp3rd.hwdevstudio.com:9103/",
+     "imageURL": "station-POPMusic",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "POP Music 80s",
+     "streamURL": "http://radioapp3rd.hwdevstudio.com:9103/",
+     "imageURL": "station-POPMusic80s",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     }
+     ]
+}

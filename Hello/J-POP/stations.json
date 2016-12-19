@@ -1,0 +1,124 @@
+{
+    "station":
+    [
+     {
+     "name": "AnimeAmaze",
+     "streamURL": "http://apple.neostreams.info:10007/",
+     "imageURL": "station-AnimeAmaze",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "Armitages Dimension",
+     "streamURL": "http://jparmitages.hwdevstudio.com:8012/",
+     "imageURL": "station-ArmitagesDimension",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "Asia Dream Radio",
+     "streamURL": "http://jpasiadream.hwdevstudio.com:9764/;stream/1",
+     "imageURL": "station-AsiaDreamRadio",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "BigB Radio",
+     "streamURL": "http://jpbigb.hwdevstudio.com:8091/",
+     "imageURL": "station-BigBRadio",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "Friends Forever",
+     "streamURL": "http://jpfriendsforever.hwdevstudio.com:8072/",
+     "imageURL": "station-FriendsForever",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "JapanA Radio",
+     "streamURL": "http://audio.misproductions.com/japan128k",
+     "imageURL": "station-JapanARadio",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "Japanim Radio",
+     "streamURL": "http://perseus.shoutca.st:8050/stream2",
+     "imageURL": "station-JapanimRadio",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "J-POP 70s-90s",
+     "streamURL": "http://jpop70s90s.hwdevstudio.com:7002/;stream/1",
+     "imageURL": "station-J-POP70s-90s",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "J-POP Powerplay",
+     "streamURL": "http://cabhs30.sonixcast.com:9628/",
+     "imageURL": "station-J-POPPowerplay",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "J-POP Powerplay HipHop",
+     "streamURL": "http://jppowerplayhiphop.hwdevstudio.com:9260/;stream/1",
+     "imageURL": "station-J-POPPowerplayHipHop",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "J-POP Powerplay Kawaii",
+     "streamURL": "http://cabhs31.sonixcast.com:20002/;stream/1",
+     "imageURL": "station-J-POPPowerplayKawaii",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "J-POP Suki",
+     "streamURL": "http://jpopsuki.fm:8000/stream",
+     "imageURL": "station-J-POPSuki",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "J-PHiP Radio",
+     "streamURL": "http://radio.jphip.com:8800/",
+     "imageURL": "station-J-PHiPRadio",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "Mc Radio",
+     "streamURL": "http://jpmcradio.hwdevstudio.com:8264/;stream/1",
+     "imageURL": "station-McRadio",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "Otakudesho",
+     "streamURL": "http://jpotakudesho.hwdevstudio.com:9862/",
+     "imageURL": "station-Otakudesho",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "Radio Caprice",
+     "streamURL": "http://radioapp1st.hwdevstudio.com:9065/",
+     "imageURL": "station-RadioCaprice",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "Yggdrasil Radio",
+     "streamURL": "http://jpyggdrasil.hwdevstudio.com:9200/",
+     "imageURL": "station-YggdrasilRadio",
+     "desc": "",
+     "longDesc": ""
+     }
+     ]
+}

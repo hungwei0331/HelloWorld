@@ -1,0 +1,89 @@
+{
+    "station":
+    [
+     {
+     "name": "Folk Alley - Folk",
+     "streamURL": "http://iphone1.folkalley.com/",
+     "imageURL": "station-FolkAlley-Folk",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "Folk Radio - Folk",
+     "streamURL": "http://89.205.127.244:8002/",
+     "imageURL": "station-FolkRadio-Folk",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "RadioCaprice - Celtic",
+     "streamURL": "http://radioapp2nd.hwdevstudio.com:9087",
+     "imageURL": "station-RadioCaprice-Celtic",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "RadioCaprice - Far East",
+     "streamURL": "http://radioapp1st.hwdevstudio.com:9131",
+     "imageURL": "station-RadioCaprice-FarEastTraditional",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "RadioCaprice - Flamenco",
+     "streamURL": "http://radioapp2nd.hwdevstudio.com:9055",
+     "imageURL": "station-RadioCaprice-Flamenco",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "RadioCaprice - Indian Folk",
+     "streamURL": "http://radioapp2nd.hwdevstudio.com:9021",
+     "imageURL": "station-RadioCaprice-IndianFolk",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "RadioCaprice - Middle Eastern ",
+     "streamURL": "http://radioapp1st.hwdevstudio.com:9071",
+     "imageURL": "station-RadioCaprice-MiddleEasternTraditional",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "RadioCaprice - Native American",
+     "streamURL": "http://radioapp1st.hwdevstudio.com:9071",
+     "imageURL": "station-RadioCaprice-NativeAmerican",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "RadioCaprice - Latin",
+     "streamURL": "http://radioapp3rd.hwdevstudio.com:9049",
+     "imageURL": "station-RadioCaprice-Latin",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "RadioCaprice - Spiritual",
+     "streamURL": "http://radioapp2nd.hwdevstudio.com:9127",
+     "imageURL": "station-RadioCaprice-OrthodoxSpiritual",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "RadioCaprice - Tango",
+     "streamURL": "http://radioapp3rd.hwdevstudio.com:9117",
+     "imageURL": "station-RadioCaprice-Tango",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "SomaFM - Folk",
+     "streamURL": "http://ice2.somafm.com/folkfwd-128-mp3",
+     "imageURL": "station-SomaFM-Folk",
+     "desc": "",
+     "longDesc": ""
+     }
+     ]
+}

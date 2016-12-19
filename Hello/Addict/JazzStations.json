@@ -1,0 +1,187 @@
+{
+    "station":
+    [
+     {
+     "name": "ACID Jazz",
+     "streamURL": "http://79.111.14.76:9001/",
+     "imageURL": "station-ACIDJazz",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Big Band",
+     "streamURL": "http://79.120.39.202:9023/",
+     "imageURL": "station-BigBand",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Bossa Nova",
+     "streamURL": "http://79.111.14.76:9105/",
+     "imageURL": "station-BossaNova",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Contemporary Jazz",
+     "streamURL": "http://79.111.119.111:9017/",
+     "imageURL": "station-ContemporaryJazz",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Cool Jazz",
+     "streamURL": "http://79.120.39.202:9085/",
+     "imageURL": "station-CoolJazz",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Dark Jazz",
+     "streamURL": "http://79.120.39.202:9137/",
+     "imageURL": "station-DarkJazz",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Dixieland",
+     "streamURL": "http://79.120.39.202:9039/",
+     "imageURL": "station-Dixieland",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Free Improvisation",
+     "streamURL": "http://79.111.119.111:9101/",
+     "imageURL": "station-FreeImprovisation",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Free Jazz",
+     "streamURL": "http://79.111.14.76:9095/",
+     "imageURL": "station-FreeJazz",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Guitar Jazz",
+     "streamURL": "http://79.120.77.11:9131/",
+     "imageURL": "station-GuitarJazz",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Hard Bop",
+     "streamURL": "http://79.111.14.76:9047/",
+     "imageURL": "station-HardBop",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Jazz",
+     "streamURL": "http://79.120.77.11:9005/",
+     "imageURL": "station-Jazz",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Jazz Funk",
+     "streamURL": "http://79.120.39.202:9047/",
+     "imageURL": "station-JazzFunk",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Jazz Fusion",
+     "streamURL": "http://79.111.119.111:9009/",
+     "imageURL": "station-JazzFusion",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Jazz Manouche",
+     "streamURL": "http://79.120.77.11:9129/",
+     "imageURL": "station-JazzManouche",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Jazz Pop",
+     "streamURL": "http://79.120.39.202:9135/",
+     "imageURL": "station-JazzPop",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Latin",
+     "streamURL": "http://79.111.119.111:9055/",
+     "imageURL": "station-Latin",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Mainstream Jazz",
+     "streamURL": "http://79.111.14.76:9085/",
+     "imageURL": "station-MainstreamJazz",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Modern Creative",
+     "streamURL": "http://79.120.77.11:9133/",
+     "imageURL": "station-ModernCreative",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Nu Jazz",
+     "streamURL": "http://79.111.14.76:9011/",
+     "imageURL": "station-NuJazz",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Piano Jazz",
+     "streamURL": "http://79.111.119.111:9059/",
+     "imageURL": "station-PianoJazz",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Post Bop",
+     "streamURL": "http://79.111.14.76:9045/",
+     "imageURL": "station-PostBop",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Smooth Jazz",
+     "streamURL": "http://79.120.39.202:9017/",
+     "imageURL": "station-SmoothJazz",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Soul Jazz",
+     "streamURL": "http://79.111.14.76:9121/",
+     "imageURL": "station-SoulJazz",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Swing",
+     "streamURL": "http://79.120.39.202:9019/",
+     "imageURL": "station-Swing",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Vocal Jazz",
+     "streamURL": "http://79.120.39.202:9083/",
+     "imageURL": "station-VocalJazz",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     }
+     ]
+}

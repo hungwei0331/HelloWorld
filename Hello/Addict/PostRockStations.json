@@ -1,0 +1,92 @@
+{
+    "station":
+    [
+     {
+     "name": "Ambient",
+     "streamURL": "http://listen.mrg.fm:8888/stream2",
+     "imageURL": "station-AmbientRadio",
+     "desc": "Ambient Radio",
+     "longDesc": ""
+     },
+     {
+     "name": "Ambient",
+     "streamURL": "http://sleepingpill.hwdevstudio.com/asp-s",
+     "imageURL": "station-SleepingPill",
+     "desc": "Sleeping Pill",
+     "longDesc": ""
+     },
+     {
+     "name": "Experimental",
+     "streamURL": "http://lyra.shoutca.st:8206/stream",
+     "imageURL": "station-MNSFM",
+     "desc": "Mns FM",
+     "longDesc": ""
+     },
+     {
+     "name": "Experimental",
+     "streamURL": "http://fluidradio.hwdevstudio.com:9270/",
+     "imageURL": "station-Experimental",
+     "desc": "Fluid Radio",
+     "longDesc": ""
+     },
+     {
+     "name": "Shoegazing",
+     "streamURL": "http://cabhs30.sonixcast.com:9346/",
+     "imageURL": "station-DKFM",
+     "desc": "Dkfm",
+     "longDesc": ""
+     },
+     {
+     "name": "Shoegazing",
+     "streamURL": "http://primalradio.hwdevstudio.com:8018/",
+     "imageURL": "station-PrimalRadio",
+     "desc": "Primal Radio",
+     "longDesc": ""
+     },
+
+     {
+     "name": "Shoegazing",
+     "streamURL": "http://radioapp1st.hwdevstudio.com:9077/",
+     "imageURL": "station-radioRC-shoegazing",
+     "desc": "RadioCaprice",
+     "longDesc": ""
+     },
+     {
+     "name": "PostRock",
+     "streamURL": "https://streaming.radio.co/sbfe60794e/listen",
+     "imageURL": "station-postFFP",
+     "desc": "FarPastPost",
+     "longDesc": ""
+     },
+
+     {
+     "name": "PostRock",
+     "streamURL": "http://postrockmusic.hwdevstudio.com:9996/;",
+     "imageURL": "station-postrockmusic",
+     "desc": "PostRockMusic",
+     "longDesc": ""
+     },
+     {
+     "name": "PostRock",
+     "streamURL": "http://postrocksme.hwdevstudio.com:8000/",
+     "imageURL": "station-postrockme",
+     "desc": "Postrocks.me",
+     "longDesc": ""
+     },
+
+     {
+     "name": "PostRock",
+     "streamURL": "http://radioapp2nd.hwdevstudio.com:9043/",
+     "imageURL": "station-radioRC-postRock",
+     "desc": "RadioCaprice",
+     "longDesc": ""
+     },
+     {
+     "name": "PostRock",
+     "streamURL": "http://UnpopularRadio.unionpost.org:8000/",
+     "imageURL": "station-UnpopularRadio-postRock",
+     "desc": "UnPopularRadio",
+     "longDesc": ""
+     }
+     ]
+}

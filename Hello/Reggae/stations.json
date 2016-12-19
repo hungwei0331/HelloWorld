@@ -1,0 +1,96 @@
+{
+    "station":
+    [
+     {
+     "name": "Caprice - Dance Hall",
+     "streamURL": "http://radioapp2nd.hwdevstudio.com:9057/",
+     "imageURL": "station-Caprice-Caprice-DanceHall",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "Caprice - Dub",
+     "streamURL": "http://radioapp2nd.hwdevstudio.com:9029/",
+     "imageURL": "station-Caprice-Caprice-Dub",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "Caprice - Reggae",
+     "streamURL": "http://radioapp3rd.hwdevstudio.com:9063/",
+     "imageURL": "station-Caprice-Reggae",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "Caprice - Root Reggae",
+     "streamURL": "http://radioapp1st.hwdevstudio.com:9047/",
+     "imageURL": "station-Caprice-RootReggae",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "Caprice - Ska",
+     "streamURL": "http://radioapp1st.hwdevstudio.com:9043/",
+     "imageURL": "station-radioRC-Caprice-Ska",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "Caprice - Ska Punk",
+     "streamURL": "http://radioapp1st.hwdevstudio.com:9039/",
+     "imageURL": "station-radioRC-Caprice-SkaPunk",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "ReggaeTrade - Reggae",
+     "streamURL": "hhttp://cdn-static.tunein.com/201607201539/js/lib/jPlayer/blank.mp3",
+     "imageURL": "station-radioRC-FM-ReggaeTrade",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "LaGrosse Radio - Reggae",
+     "streamURL": "http://176.31.246.142:8300/",
+     "imageURL": "station-LaGrosseRadio-Reggae",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "Npo FunX - Reggae",
+     "streamURL": "http://icecast.omroep.nl/funx-reggae-sb-aac",
+     "imageURL": "station-NPOFunX-Reggae",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "Kingstown - Reggae",
+     "streamURL": "http://hestia2.cdnstream.com/1301_128",
+     "imageURL": "station-radioRC-Kingstown-Reggae141",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "Reggae World - Reggae",
+     "streamURL": "http://s40.myradiostream.com:8494/",
+     "imageURL": "station-ReggaeWorldRadio-Reggae",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "Show Time - Reggae",
+     "streamURL": "http://eu1.fastcast4u.com:2670/showtime",
+     "imageURL": "station-ShowTimeRadio-Reggae",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "Webadub Hot - Reggae",
+     "streamURL": "http://cabhs30.sonixcast.com:9282/",
+     "imageURL": "station-ShowTimeRadio-WebadubHotRadio-Reggae",
+     "desc": "",
+     "longDesc": ""
+     }
+     ]
+}

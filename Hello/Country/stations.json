@@ -1,0 +1,82 @@
+{
+    "station":
+    [
+     {
+     "name": "1.FM- Country",
+     "streamURL":"http://strm112.1.fm/acountry_mobile_mp3",
+     "imageURL": "station-1.FM-CountryHITS",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "181.FM - Blue Grass",
+     "streamURL":"http://listen.181fm.com/181-frontporch_128k.mp3?noPreRoll=true",
+     "imageURL": "station-181.FM-BlueGrass",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "181.FM - Country",
+     "streamURL":"http://listen.181fm.com/181-kickincountry_64k.aac?noPreRoll=true",
+     "imageURL": "station-181.FM-Country",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "Country104 - Country",
+     "streamURL":"http://live.leanstream.co/CKDKFM-MP3?tunein",
+     "imageURL": "station-Country104-CountryHITS",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "KAT Country - Country",
+     "streamURL": "http://15123.live.streamtheworld.com/KATIFM_SC",
+     "imageURL": "station-RadioCaprice-KATCountry-Country",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "KTI Country - Country",
+     "streamURL": "http://8323.live.streamtheworld.com/WKTIFM_SC",
+     "imageURL": "station-KTICountry-Country",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "Radio Caprice - Alternative",
+     "streamURL": "http://radioapp1st.hwdevstudio.com:9103",
+     "imageURL": "station-RadioCaprice-AlernativeCountry",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "Radio Caprice - Blue Grass",
+     "streamURL": "http://radioapp2nd.hwdevstudio.com:9027",
+     "imageURL": "station-RadioCaprice-BlueGrass",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "Radio Caprice - Country",
+     "streamURL": "http://radioapp4th.hwdevstudio.com:9049",
+     "imageURL": "station-RadioCaprice-Country",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "Radio Caprice - Country Pop",
+     "streamURL": "http://radioapp1st.hwdevstudio.com:9123",
+     "imageURL": "station-RadioCaprice-CountryPop",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "Radio Country Live - Country",
+     "streamURL": "http://tier1.radiostreamlive.com:8080/radiocountrylive_aac-low",
+     "imageURL": "station-RadioCountryLive-Country",
+     "desc": "",
+     "longDesc": ""
+     }
+     ]
+}

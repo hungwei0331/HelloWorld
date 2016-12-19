@@ -1,0 +1,61 @@
+{
+    "station":
+    [
+     {
+     "name": "Alternative Country",
+     "streamURL": "http://radioapp1st.hwdevstudio.com:9103",
+     "imageURL": "station-RadioCaprice-AlernativeCountry",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Blue Grass",
+     "streamURL":"http://listen.181fm.com/181-frontporch_128k.mp3?noPreRoll=true",
+     "imageURL": "station-181.FM-BlueGrass",
+     "desc": "181.FM",
+     "longDesc": ""
+     },
+     {
+     "name": "Blue Grass",
+     "streamURL": "http://radioapp2nd.hwdevstudio.com:9027",
+     "imageURL": "station-RadioCaprice-BlueGrass",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Country",
+     "streamURL":"http://strm112.1.fm/acountry_mobile_mp3",
+     "imageURL": "station-1.FM-CountryHITS",
+     "desc": "1.FM",
+     "longDesc": ""
+     },
+     {
+     "name": "Country",
+     "streamURL":"http://listen.181fm.com/181-kickincountry_64k.aac?noPreRoll=true",
+     "imageURL": "station-181.FM-Country",
+     "desc": "181.FM",
+     "longDesc": ""
+     },
+     {
+     "name": "Country",
+     "streamURL":"http://live.leanstream.co/CKDKFM-MP3?tunein",
+     "imageURL": "station-Country104-CountryHITS",
+     "desc": "Country 104",
+     "longDesc": ""
+     },
+     {
+     "name": "Country",
+     "streamURL": "http://radioapp4th.hwdevstudio.com:9049",
+     "imageURL": "station-RadioCaprice-Country",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Country Pop",
+     "streamURL": "http://radioapp1st.hwdevstudio.com:9123",
+     "imageURL": "station-RadioCaprice-CountryPop",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     }
+     ]
+}

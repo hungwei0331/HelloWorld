@@ -1,0 +1,99 @@
+{
+    "station":
+    [
+
+     {
+     "name": "Dance Hall",
+     "streamURL": "http://radioapp2nd.hwdevstudio.com:9057/",
+     "imageURL": "station-Caprice-Caprice-DanceHall",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Dub",
+     "streamURL": "http://radioapp2nd.hwdevstudio.com:9029/",
+     "imageURL": "station-Caprice-Caprice-Dub",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     
+     {
+     "name": "Reggae",
+     "streamURL": "http://74.208.170.137:9340/kreglow",
+     "imageURL": "station-Caprice-Caprice-BigReggaeMix-Reggae",
+     "desc": "Big Reggae Mix",
+     "longDesc": ""
+     },
+     {
+     "name": "Reggae",
+     "streamURL": "http://hestia2.cdnstream.com/1301_128",
+     "imageURL": "station-radioRC-Kingstown-Reggae141",
+     "desc": "Kingstown",
+     "longDesc": ""
+     },
+     {
+     "name": "Reggae",
+     "streamURL": "http://176.31.246.142:8300/",
+     "imageURL": "station-LaGrosseRadio-Reggae",
+     "desc": "LaGrosse Radio",
+     "longDesc": ""
+     },
+     {
+     "name": "Reggae",
+     "streamURL": "http://icecast.omroep.nl/funx-reggae-sb-aac",
+     "imageURL": "station-NPOFunX-Reggae",
+     "desc": "NPO FunX",
+     "longDesc": ""
+     },
+     {
+     "name": "Reggae",
+     "streamURL": "http://radioapp3rd.hwdevstudio.com:9063/",
+     "imageURL": "station-Caprice-Reggae",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Reggae",
+     "streamURL": "http://s40.myradiostream.com:8494/",
+     "imageURL": "station-ReggaeWorldRadio-Reggae",
+     "desc": "Reggae World Radio",
+     "longDesc": ""
+     },
+     {
+     "name": "Reggae",
+     "streamURL": "http://eu1.fastcast4u.com:2670/showtime",
+     "imageURL": "station-ShowTimeRadio-Reggae",
+     "desc": "Show Time Radio",
+     "longDesc": ""
+     },
+     {
+     "name": "Roots Reggae",
+     "streamURL": "http://wms-13.streamsrus.com:17130/",
+     "imageURL": "station-AddictedToRadio-RootsReggae",
+     "desc": "Addicted To Radio",
+     "longDesc": ""
+     },
+     {
+     "name": "Root Reggae",
+     "streamURL": "http://radioapp1st.hwdevstudio.com:9047/",
+     "imageURL": "station-Caprice-RootReggae",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Ska",
+     "streamURL": "http://radioapp1st.hwdevstudio.com:9043/",
+     "imageURL": "station-radioRC-Caprice-Ska",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Ska Punk",
+     "streamURL": "http://radioapp1st.hwdevstudio.com:9039/",
+     "imageURL": "station-radioRC-Caprice-SkaPunk",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+
+     ]
+}

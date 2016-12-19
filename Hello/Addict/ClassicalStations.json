@@ -1,0 +1,103 @@
+{
+    "station":
+    [
+     {
+     "name": "Baroque",
+     "streamURL": "http://radioapp2nd.hwdevstudio.com:9113/",
+     "imageURL": "station-RadioCaprice-Baroque",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Classical",
+     "streamURL": "http://66.209.79.122:8002",
+     "imageURL": "station-RadioCaprice-Capital89.7",
+     "desc": "Capital 89.7",
+     "longDesc": ""
+     },
+     {
+     "name": "Classical",
+     "streamURL": "http://65.19.131.165/agmedia28-khfmfmmp3-48?session-id=1106886702",
+     "imageURL": "station-RadioCaprice-Capital95.5",
+     "desc": "Capital 95.5",
+     "longDesc": ""
+     },
+     {
+     "name": "Classical",
+     "streamURL": "http://zoomcast.vs.hc1.ca/cfmz.mp3",
+     "imageURL": "station-RadioCaprice-Capital96.3",
+     "desc": "Capital 96.3",
+     "longDesc": ""
+     },
+     {
+     "name": "Classical",
+     "streamURL": "http://cms.stream.publicradio.org/cms.mp3",
+     "imageURL": "station-RadioCaprice-ClassicalMPR",
+     "desc": "Classical MPR",
+     "longDesc": ""
+     },
+     {
+     "name": "Classical",
+     "streamURL": "http://cdn.byub.org/classical89/classical89_mp3",
+     "imageURL": "station-RadioCaprice-KBYU-FMClassical89",
+     "desc": "KBYU-FM",
+     "longDesc": ""
+     },
+     {
+     "name": "Classical",
+     "streamURL": "http://vprclassical.streamguys.net/vprclassical64.mp3",
+     "imageURL": "station-RadioCaprice-VPRClassical",
+     "desc": "Vermont Public Radio",
+     "longDesc": ""
+     },
+     {
+     "name": "Classical Piano",
+     "streamURL": "http://radioapp3rd.hwdevstudio.com:9069/",
+     "imageURL": "station-RadioCaprice-ClassicalPiano",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Choral Music",
+     "streamURL": "http://radioapp3rd.hwdevstudio.com:9053/",
+     "imageURL": "station-RadioCaprice-ChoralMusic",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "String",
+     "streamURL": "http://radioapp3rd.hwdevstudio.com:9133/",
+     "imageURL": "station-RadioCaprice-Opera",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Symphony",
+     "streamURL": "http://radioapp2nd.hwdevstudio.com:9079/",
+     "imageURL": "station-RadioCaprice-Symphony",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Symphonic Music",
+     "streamURL": "http://radioapp4th.hwdevstudio.com:9019/",
+     "imageURL": "station-RadioCaprice-SymphonicMusic",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Opera",
+     "streamURL": "http://radioapp3rd.hwdevstudio.com:9057/",
+     "imageURL": "station-RadioCaprice-Opera",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Organ Music",
+     "streamURL": "http://radioapp4th.hwdevstudio.com:9051",
+     "imageURL": "station-RadioCaprice-OrganMusic",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     }
+     ]
+}
