@@ -2,151 +2,95 @@
     "station":
     [
      {
-     "name": "ANR FunkyTown",
-     "streamURL": "http://stream.anr.dk/funkytown",
-     "imageURL": "station-ANRFunkyTow",
-     "desc": "",
-     "longDesc": "",
-     },
-     {
-     "name": "Amsterdam Funk",
-     "streamURL": "http://stream.afc.fm:8504/;8479783990362537stream.nsv",
-     "imageURL": "station-AmsterdamFunk",
-     "desc": "",
-     "longDesc": "",
-     },
-     {
      "name": "Amys FM",
      "streamURL": "http://91.121.59.45:10035/amysfm",
      "imageURL": "station-AmysFM",
      "desc": "",
-     "longDesc": "",
-     },
-     {
-     "name": "Allure Club",
-     "streamURL": "http://37.187.59.149:8005/;971252102437683stream.nsv",
-     "imageURL": "station-AllureClub",
-     "desc": "",
-     "longDesc": "",
+     "longDesc": ""
      },
      {
      "name": "Allzic Funk",
      "streamURL": "http://allzic08.ice.infomaniak.ch/allzic11.mp3",
      "imageURL": "station-AllzicFunk",
      "desc": "",
-     "longDesc": "",
-     },
-     {
-     "name": "Apcs Radio",
-     "streamURL": "http://server3.digital-webstream.de:8415/;290475663947565stream.nsv",
-     "imageURL": "station-ApcsRadio",
-     "desc": "",
-     "longDesc": "",
+     "longDesc": ""
      },
      {
      "name": "Disco Club",
      "streamURL": "http://stream3.laut.fm/discoclub",
      "imageURL": "station-DiscoClub",
      "desc": "",
-     "longDesc": "",
+     "longDesc": ""
      },
      {
      "name": "Engry Funky",
      "streamURL": "http://185.52.127.157/de/33033/mp3_128.mp3",
      "imageURL": "station-EngryFunky",
      "desc": "",
-     "longDesc": "",
-     },
-     {
-     "name": "Funk 4 Junks",
-     "streamURL": "http://stream1.laut.fm/funk4junks",
-     "imageURL": "station-Funk4Junks",
-     "desc": "",
-     "longDesc": "",
-     },
-     {
-     "name": "Generation Funk",
-     "streamURL": "http://streaming304.radionomy.com/GENERATIONSOULDISCOFUNK-MP3",
-     "imageURL": "station-GenerationFunk",
-     "desc": "",
-     "longDesc": "",
+     "longDesc": ""
      },
      {
      "name": "Hotmix Radio Funky",
      "streamURL": "http://streaming.hotmixradio.fm/hotmixradio-funky-128.mp3",
      "imageURL": "station-HotmixRadioFunky",
      "desc": "",
-     "longDesc": "",
+     "longDesc": ""
      },
      {
      "name": "KT FM",
      "streamURL": "http://broadcast.infomaniak.net/ktfm-high.mp3",
      "imageURL": "station-KTFM",
      "desc": "",
-     "longDesc": "",
+     "longDesc": ""
      },
      {
      "name": "Luxfunk Radio",
      "streamURL": "http://37.221.209.146:5000/luxfunkradio.mp3",
      "imageURL": "station-LuxfunkRadio",
      "desc": "",
-     "longDesc": "",
+     "longDesc": ""
      },
      {
      "name": "Manhattan Show",
      "streamURL": "http://37.59.25.137:8405/Manhattan",
      "imageURL": "station-ManhattanShow",
      "desc": "",
-     "longDesc": "",
+     "longDesc": ""
      },
      {
      "name": "Mojo",
      "streamURL": "http://stream3.laut.fm/mojo",
      "imageURL": "station-Mojo",
      "desc": "",
-     "longDesc": "",
+     "longDesc": ""
      },
      {
      "name": "M2 Funk",
      "streamURL": "http://live.m2stream.fr/m2funk-128.mp3",
      "imageURL": "station-M2Funk",
      "desc": "",
-     "longDesc": "",
+     "longDesc": ""
      },
      {
      "name": "Nostalgie Saturday Night",
      "streamURL": "http://185.52.127.159/fr/30773/mp3_128.mp3?origine=radio.fr",
      "imageURL": "station-NostalgieSaturdayNight",
      "desc": "",
-     "longDesc": "",
-     },
-     {
-     "name": "Precious Radio Funk",
-     "streamURL": "http://94.23.15.114:8018/stream/;340625049200459stream.nsv",
-     "imageURL": "station-PreciousRadioFunk",
-     "desc": "",
-     "longDesc": "",
+     "longDesc": ""
      },
      {
      "name": "Rouge Funk",
      "streamURL": "http://rouge-funk.ice.infomaniak.ch/rouge-funk-128.mp3",
      "imageURL": "station-RougeFunk",
      "desc": "",
-     "longDesc": "",
+     "longDesc": ""
      },
      {
      "name": "Traxx.FM Funk",
      "streamURL": "http://traxx016.ice.infomaniak.ch/traxx016-low.mp3",
      "imageURL": "station-RadioNula",
      "desc": "",
-     "longDesc": "",
-     },
-     {
-     "name": "54 Funk",
-     "streamURL": "http://stream1.laut.fm/54-funk-soul-dance",
-     "imageURL": "station-54Funk",
-     "desc": "",
-     "longDesc": "",
+     "longDesc": ""
      }
      ]
 }
