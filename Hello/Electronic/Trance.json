@@ -1,0 +1,68 @@
+{
+    "station":
+    [
+      {
+       "name": "Dark PSY Trance",
+       "streamURL": "http://radioapp1st.hwdevstudio.com:9057/",
+       "imageURL": "station-radioRC-DarkPSYTrance",
+       "desc": "Radio Caprice",
+       "longDesc": ""
+       },
+       {
+      "name": "Dream Trance",
+      "streamURL": "http://radioapp3rd.hwdevstudio.com:9029/",
+      "imageURL": "station-radioRC-DreamTranceHouse",
+      "desc": "Radio Caprice",
+      "longDesc": ""
+      },
+      {
+      "name": "GOA Trance",
+      "streamURL": "http://radioapp3rd.hwdevstudio.com:9105/",
+      "imageURL": "station-radioRC-GOATrance",
+      "desc": "Radio Caprice",
+      "longDesc": ""
+      },
+      {
+      "name": "PSY Trance",
+      "streamURL": "http://radioapp1st.hwdevstudio.com:9091/",
+      "imageURL": "station-radioRC-PSYTRANCE",
+      "desc": "Radio Caprice",
+      "longDesc": ""
+      },
+      {
+      "name": "Progressive PSY Trance",
+      "streamURL": "http://radioapp3rd.hwdevstudio.com:9131/",
+      "imageURL": "station-radioRC-progressivePSYTrance",
+      "desc": "Radio Caprice",
+      "longDesc": ""
+      },
+      {
+      "name": "Progressive Trance",
+      "streamURL": "http://radioapp3rd.hwdevstudio.com:9025/",
+      "imageURL": "station-radioRC-progressiveTrance",
+      "desc": "Radio Caprice",
+      "longDesc": ""
+      },
+      {
+      "name": "Trance",
+      "streamURL": "http://radioapp4th.hwdevstudio.com:9021/",
+      "imageURL": "station-radioRC-trance",
+      "desc": "Radio Caprice",
+      "longDesc": ""
+      },
+      {
+      "name": "Uplifting Trance",
+      "streamURL": "http://radioapp1st.hwdevstudio.com:9019/",
+      "imageURL": "station-radioRC-upliftingTracne",
+      "desc": "Radio Caprice",
+      "longDesc": ""
+      },
+      {
+      "name": "Vocal Trance",
+      "streamURL": "http://radioapp3rd.hwdevstudio.com:9031/",
+      "imageURL": "station-radioRC-VocalTrance",
+      "desc": "Radio Caprice",
+      "longDesc": ""
+      }
+     ]
+}

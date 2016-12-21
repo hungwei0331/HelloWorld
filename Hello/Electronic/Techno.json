@@ -1,0 +1,33 @@
+{
+    "station":
+    [
+      {
+       "name": "Dub Techno",
+       "streamURL": "http://radioapp3rd.hwdevstudio.com:9009/",
+       "imageURL": "station-radioRC-DUBTECHNO",
+       "desc": "Radio Caprice",
+       "longDesc": ""
+      },
+      {
+      "name": "Minimal Techno",
+      "streamURL": "http://radioapp3rd.hwdevstudio.com:9005/",
+      "imageURL": "station-radioRC-MinimalTech",
+      "desc": "Radio Caprice",
+      "longDesc": ""
+      },
+      {
+      "name": "Minimal Techno House",
+      "streamURL": "http://radioapp1st.hwdevstudio.com:9003/",
+      "imageURL": "station-radioRC-MinimalTechHouse",
+      "desc": "Radio Caprice",
+      "longDesc": ""
+      },
+      {
+      "name": "Techno",
+      "streamURL": "http://radioapp4th.hwdevstudio.com:9073/",
+      "imageURL": "station-radioRC-Techno",
+      "desc": "Radio Caprice",
+      "longDesc": ""
+      }
+     ]
+}

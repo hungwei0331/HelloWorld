@@ -1,0 +1,68 @@
+{
+    "station":
+    [
+      {
+      "name": "Dark Electro / Aggrotech",
+      "streamURL": "http://radioapp3rd.hwdevstudio.com:9091/",
+      "imageURL": "station-radioRC-DarkElectro",
+      "desc": "Radio Caprice",
+      "longDesc": ""
+      },
+      {
+      "name": "Electro",
+      "streamURL": "http://radioapp1st.hwdevstudio.com:9063/",
+      "imageURL": "station-radioRC-Electro",
+      "desc": "Radio Caprice",
+      "longDesc": ""
+      },
+      {
+      "name": "Electro Clash",
+      "streamURL": "http://radioapp3rd.hwdevstudio.com:9129/",
+      "imageURL": "station-radioRC-ElectroClash",
+      "desc": "Radio Caprice",
+      "longDesc": ""
+      },
+      {
+      "name": "Electro House",
+      "streamURL": "http://radioapp2nd.hwdevstudio.com:9075/",
+      "imageURL": "station-radioRC-electroHouse",
+      "desc": "Radio Caprice",
+      "longDesc": ""
+      },
+      {
+      "name": "Electro Industrial",
+      "streamURL": "http://radioapp1st.hwdevstudio.com:9127/",
+      "imageURL": "station-radioRC-ElectroIndustrial",
+      "desc": "Radio Caprice",
+      "longDesc": ""
+      },
+      {
+      "name": "Electronic Body Music",
+      "streamURL": "http://radioapp2nd.hwdevstudio.com:9005/",
+      "imageURL": "station-radioRC-EBM",
+      "desc": "Radio Caprice",
+      "longDesc": ""
+      },
+      {
+      "name": "Electronic Dance Music",
+      "streamURL": "http://s1.edmradio.ru:8000/128",
+      "imageURL": "station-radioRC-EDM",
+      "desc": "Radio Caprice",
+      "longDesc": ""
+      },
+      {
+      "name": "Indie Electronic / New Wave",
+      "streamURL": "http://radioapp1st.hwdevstudio.com:9111/",
+      "imageURL": "station-radioRC-IndieElectronic",
+      "desc": "Radio Caprice",
+      "longDesc": ""
+      },
+      {
+      "name": "Traditional Electronic",
+      "streamURL": "http://radioapp2nd.hwdevstudio.com:9069/",
+      "imageURL": "station-radioRC-TraditionalElectronic",
+      "desc": "Radio Caprice",
+      "longDesc": ""
+      }
+     ]
+}

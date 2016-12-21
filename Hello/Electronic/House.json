@@ -1,0 +1,64 @@
+{
+    "station":
+    [
+      {
+      "name": "Deep House",
+      "streamURL": "http://radioapp3rd.hwdevstudio.com:9035/",
+      "imageURL": "station-radioRC-DeepHouse",
+      "desc": "Radio Caprice",
+      "longDesc": ""
+      },
+      {
+      "name": "Dream Trance / House",
+      "streamURL": "http://radioapp3rd.hwdevstudio.com:9029/",
+      "imageURL": "station-radioRC-DreamTranceHouse",
+      "desc": "Radio Caprice",
+      "longDesc": ""
+      },
+      {
+      "name": "Electro House",
+      "streamURL": "http://radioapp2nd.hwdevstudio.com:9075/",
+      "imageURL": "station-radioRC-electroHouse",
+      "desc": "Radio Caprice",
+      "longDesc": ""
+      },
+
+      {
+      "name": "Euro House",
+      "streamURL": "http://radioapp1st.hwdevstudio.com:9015/",
+      "imageURL": "station-radioRC-EuroHouse",
+      "desc": "Radio Caprice",
+      "longDesc": ""
+      },
+
+      {
+       "name": "House",
+       "streamURL": "http://radioapp4th.hwdevstudio.com:9069/",
+       "imageURL": "station-radioRC-House",
+       "desc": "Radio Caprice",
+       "longDesc": ""
+       },
+
+       {
+      "name": "Minimal Tech House",
+      "streamURL": "http://radioapp1st.hwdevstudio.com:9003/",
+      "imageURL": "station-radioRC-MinimalTechHouse",
+      "desc": "Radio Caprice",
+      "longDesc": ""
+      },
+      {
+      "name": "Progressive House",
+      "streamURL": "http://radioapp1st.hwdevstudio.com:9021/",
+      "imageURL": "station-radioRC-progressiveHouse",
+      "desc": "Radio Caprice",
+      "longDesc": ""
+      },
+      {
+      "name": "Soulful House",
+      "streamURL": "http://radioapp1st.hwdevstudio.com:9085/",
+      "imageURL": "station-radioRC-SoulfulHouse",
+      "desc": "Ultra Radio",
+      "longDesc": ""
+      }
+     ]
+}

@@ -1,0 +1,187 @@
+{
+    "station":
+    [
+     {
+     "name": "Disc Jockey",
+     "streamURL": "http://wms-13.streamsrus.com:12610/;2259128721115653stream.nsv",
+     "imageURL": "station-AddictedRadio",
+     "desc": "Addicted Radio",
+     "longDesc": ""
+     },
+     {
+     "name": "Disc Jockey",
+     "streamURL": "http://www.worldnetbox.net:8070/;670719355444359stream.nsv",
+     "imageURL": "station-AfroHouseClubDJs",
+     "desc": "Afro House Club DJs",
+     "longDesc": ""
+     },
+     {
+     "name": "Disc Jockey",
+     "streamURL": "http://149.202.69.29/listen/ahd929kmb",
+     "imageURL": "station-AnythingGoesRadio",
+     "desc": "Anything Goes Radio",
+     "longDesc": ""
+     },
+     {
+     "name": "Disc Jockey",
+     "streamURL": "http://s3.viastreaming.net:8635/;752140424532887stream.nsv",
+     "imageURL": "station-BlueMarlinIbiza",
+     "desc": "Blue Marlin Ibiza",
+     "longDesc": ""
+     },
+     {
+     "name": "Disc Jockey",
+     "streamURL": "http://bunkertv.de:8002/bb.mp3",
+     "imageURL": "station-BunkerTV",
+     "desc": "Bunker TV",
+     "longDesc": ""
+     },
+     {
+     "name": "Disc Jockey",
+     "streamURL": "http://s6.mediastreaming.it:9112/;709556786755851stream.nsv",
+     "imageURL": "station-CyberOneRadio",
+     "desc": "Cyber One Radio",
+     "longDesc": ""
+     },
+     {
+     "name": "Disc Jockey",
+     "streamURL": "http://cast.deeredradio.com:8000/stream_128",
+     "imageURL": "station-DeeredRadio",
+     "desc": "Deered Radio",
+     "longDesc": ""
+     },
+     {
+     "name": "Disc Jockey",
+     "streamURL": "http://streamplus50.leonex.de:17140/;008947303587476stream.nsv",
+     "imageURL": "station-DJRadio",
+     "desc": "DJ Radio",
+     "longDesc": ""
+     },
+     {
+     "name": "Disc Jockey",
+     "streamURL": "http://radio.tikilive.com:1025/stream/33346/;876894872334668stream.nsv",
+     "imageURL": "station-DaGrahyndMusic",
+     "desc": "DaGrahynd Music",
+     "longDesc": ""
+     },
+     {
+     "name": "Disc Jockey",
+     "streamURL": "http://stream1.laut.fm/elektronisch_querbeat",
+     "imageURL": "station-ElektronischQuerBeat",
+     "desc": "Elektronisch QuerBeat",
+     "longDesc": ""
+     },
+     {
+     "name": "Disc Jockey",
+     "streamURL": "http://freemindedfmstream.nl/",
+     "imageURL": "station-FreemindedFM",
+     "desc": "Freeminded FM",
+     "longDesc": ""
+     },
+     {
+     "name": "Disc Jockey",
+     "streamURL": "http://stream08.iloveradio.de/iloveradio2.mp3",
+     "imageURL": "station-ILove2Dance",
+     "desc": "I Love 2 Dance",
+     "longDesc": ""
+     },
+     {
+     "name": "Disc Jockey",
+     "streamURL": "http://stream02.iloveradio.de/iloveradio7.mp3",
+     "imageURL": "station-ILoveAbout",
+     "desc": "I Love About",
+     "longDesc": ""
+     },
+     {
+     "name": "Disc Jockey",
+     "streamURL": "http://198.105.220.12:9623/Live",
+     "imageURL": "station-IbizaLiveRadio",
+     "desc": "Ibiza Live Radio",
+     "longDesc": ""
+     },
+     {
+     "name": "Disc Jockey",
+     "streamURL": "http://stream1.laut.fm/justclubbing",
+     "imageURL": "station-JustClubbing",
+     "desc": "JustClubbing",
+     "longDesc": ""
+     },
+     {
+     "name": "Disc Jockey",
+     "streamURL": "http://50.22.212.194:8030/;134015969970648stream.nsv",
+     "imageURL": "station-JrEdmRadio",
+     "desc": "Jr EDM Radio",
+     "longDesc": ""
+     },
+     {
+     "name": "Disc Jockey",
+     "streamURL": "http://radio.promodj.com:8000/mixadancefm",
+     "imageURL": "station-MixadanceFM",
+     "desc": "Mixadance FM",
+     "longDesc": ""
+     },
+     {
+     "name": "Disc Jockey",
+     "streamURL": "http://89.31.134.105:96/;558960586263948stream.nsv",
+     "imageURL": "station-MusicBaseFM",
+     "desc": "Music Base FM",
+     "longDesc": ""
+     },
+     {
+     "name": "Disc Jockey",
+     "streamURL": "http://www.pink-city-beats.com:8000/PCBradio-Web-128.mp3",
+     "imageURL": "station-PinkCityRadio",
+     "desc": "Pink City Radio",
+     "longDesc": ""
+     },
+     {
+     "name": "Disc Jockey",
+     "streamURL": "http://listen.pioneerdjradio.com:8550/;529235736806505stream.nsv",
+     "imageURL": "station-PioneerDJRadio",
+     "desc": "Pioneer DJ Radio",
+     "longDesc": ""
+     },
+     {
+     "name": "Disc Jockey",
+     "streamURL": "http://mp3.planetradio.de/plrchannels/hqnightwax.mp3",
+     "imageURL": "station-PlanetRadio",
+     "desc": "Planet Radio",
+     "longDesc": ""
+     },
+     {
+     "name": "Disc Jockey",
+     "streamURL": "http://stream3.ibizasonica.com:8750/;302938024819008stream.nsv",
+     "imageURL": "station-PuraSonica",
+     "desc": "Pura Sonica",
+     "longDesc": ""
+     },
+     {
+     "name": "Disc Jockey",
+     "streamURL": "http://ic2256.c786.fast-serv.com/live",
+     "imageURL": "station-PressureRadio",
+     "desc": "Pressure Radio",
+     "longDesc": ""
+     },
+     {
+     "name": "Disc Jockey",
+     "streamURL": "http://djmixes.radioparty.pl:8035/;587775771407359stream.nsv",
+     "imageURL": "station-RadioPartyDJmixes",
+     "desc": "Radio Party DJmixes",
+     "longDesc": ""
+     },
+     {
+     "name": "Disc Jockey",
+     "streamURL": "http://136.243.16.19:8000/stream/2/",
+     "imageURL": "station-SonusFM",
+     "desc": "Sonus FM",
+     "longDesc": ""
+     },
+     {
+     "name": "Disc Jockey",
+     "streamURL": "http://stream05.iloveradio.de/iloveradio2.mp3",
+     "imageURL": "station-TomorrowRadio",
+     "desc": "Tomorrow Radio",
+     "longDesc": ""
+     }
+     ]
+}
