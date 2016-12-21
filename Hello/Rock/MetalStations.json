@@ -1,0 +1,313 @@
+{
+    "station":
+    [
+     {
+     "name": "Alternative Metal",
+     "streamURL": "http://radioapp4th.hwdevstudio.com:9035/",
+     "imageURL": "station-AlternativeMetal",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Atmospheric Metal",
+     "streamURL": "http://radioapp3rd.hwdevstudio.com:9093/",
+     "imageURL": "station-AtmosphericMetal",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Avant Grade Metal",
+     "streamURL": "http://radioapp2nd.hwdevstudio.com:9031/",
+     "imageURL": "station-AvantGradeMetal",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Black Metal",
+     "streamURL": "http://radioapp4th.hwdevstudio.com:9003/",
+     "imageURL": "station-BlackMetal",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Black Death Metal",
+     "streamURL": "http://radioapp2nd.hwdevstudio.com:9103/",
+     "imageURL": "station-BlackDeathMetal",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Brutal Death Metal",
+     "streamURL": "http://radioapp1st.hwdevstudio.com:9075/",
+     "imageURL": "station-BrutakDeathMetal",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Crust Punk",
+     "streamURL": "http://radioapp3rd.hwdevstudio.com:9123/",
+     "imageURL": "station-CrustPunk",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Death Core",
+     "streamURL": "http://radioapp2nd.hwdevstudio.com:9053/",
+     "imageURL": "station-DeathCore",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Death Metal",
+     "streamURL": "http://radioapp4th.hwdevstudio.com:9083/",
+     "imageURL": "station-DeathMetal",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Doom Metal",
+     "streamURL": "http://radioapp2nd.hwdevstudio.com:9109/",
+     "imageURL": "station-DoomMetal",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Drone Metal",
+     "streamURL": "http://radioapp3rd.hwdevstudio.com:9113/",
+     "imageURL": "station-DroneMetal",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Death Doom Metal",
+     "streamURL": "http://radioapp3rd.hwdevstudio.com:9007/",
+     "imageURL": "station-DeathDoomMetal",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Depressive Black Metal",
+     "streamURL": "http://radioapp1st.hwdevstudio.com:9011/",
+     "imageURL": "station-DepressiveBlackMetal",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Doom Metal",
+     "streamURL": "http://radioapp1st.hwdevstudio.com:9011/",
+     "imageURL": "station-DoomMetal",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Emocore / Screamo",
+     "streamURL": "http://radioapp1st.hwdevstudio.com:9119/",
+     "imageURL": "station-EmocoreScreamo",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Female Vocal in Metal",
+     "streamURL": "http://radioapp2nd.hwdevstudio.com:9125/",
+     "imageURL": "station-FemaleVocal",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Folk Metal",
+     "streamURL": "http://radioapp3rd.hwdevstudio.com:9097/",
+     "imageURL": "station-FolkMetal",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Funeral Doom Metal",
+     "streamURL": "http://radioapp4th.hwdevstudio.com:9085/",
+     "imageURL": "station-FuneralDoomMetal",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Gothic Metal",
+     "streamURL": "http://radioapp4th.hwdevstudio.com:9037/",
+     "imageURL": "station-GothicMetal",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Grind Core",
+     "streamURL": "http://radioapp4th.hwdevstudio.com:9115/",
+     "imageURL": "station-GrindCore",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Groove Metal",
+     "streamURL": "http://radioapp3rd.hwdevstudio.com:9045/",
+     "imageURL": "station-GrooveMetal",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Hardcore",
+     "streamURL": "http://radioapp2nd.hwdevstudio.com:9081/",
+     "imageURL": "station-Hardcore",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Heavy Metal",
+     "streamURL": "http://radioapp2nd.hwdevstudio.com:9061/",
+     "imageURL": "station-HeavyMetal",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Industrial Metal",
+     "streamURL": "http://radioapp3rd.hwdevstudio.com:9075/",
+     "imageURL": "station-INDUSTRIALMETAL",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Math Metal",
+     "streamURL": "http://radioapp3rd.hwdevstudio.com:9115/",
+     "imageURL": "station-MathMetal",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Metal Core",
+     "streamURL": "http://radioapp3rd.hwdevstudio.com:9027/",
+     "imageURL": "station-MetalCore",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Melodic Black Metal",
+     "streamURL": "http://radioapp1st.hwdevstudio.com:9079/",
+     "imageURL": "station-MelodicBlackMetal",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Neo Classical Metal",
+     "streamURL": "http://radioapp1st.hwdevstudio.com:9033/",
+     "imageURL": "station-NeoclassicalMetal",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Nu Metal",
+     "streamURL": "http://radioapp2nd.hwdevstudio.com:9033/",
+     "imageURL": "station-NuMetal",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Pagan Metal",
+     "streamURL": "http://radioapp1st.hwdevstudio.com:9069/",
+     "imageURL": "station-PaganMetal",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Post Metal",
+     "streamURL": "http://radioapp3rd.hwdevstudio.com:9119/",
+     "imageURL": "station-PostMetal",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Post Hard Core",
+     "streamURL": "http://radioapp1st.hwdevstudio.com:9087/",
+     "imageURL": "station-PostHardCore",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Power Metal",
+     "streamURL": "http://radioapp4th.hwdevstudio.com:9099/",
+     "imageURL": "station-PowerMetal",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Progressive Black",
+     "streamURL": "http://radioapp2nd.hwdevstudio.com:9131/",
+     "imageURL": "station-ProgressiveBlack",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Progressive Metal",
+     "streamURL": "http://radioapp4th.hwdevstudio.com:9093/",
+     "imageURL": "station-ProgressiveMetal",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Progressive Death Metal",
+     "streamURL": "http://radioapp1st.hwdevstudio.com:9001/",
+     "imageURL": "station-ProgressiveDeathMetal",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Rap Core",
+     "streamURL": "http://radioapp3rd.hwdevstudio.com:9043/",
+     "imageURL": "station-radioRC-RapCore",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Sludge Metal",
+     "streamURL": "http://radioapp4th.hwdevstudio.com:9087/",
+     "imageURL": "station-radioRC-SludgeMetal",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Speed Metal",
+     "streamURL": "http://radioapp1st.hwdevstudio.com:9107/",
+     "imageURL": "station-radioRC-SPEEDMETAL",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Stoner Metal",
+     "streamURL": "http://radioapp4th.hwdevstudio.com:9089/",
+     "imageURL": "station-radioRC-StonerMetal",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Symphonic Metal",
+     "streamURL": "http://radioapp4th.hwdevstudio.com:9097/",
+     "imageURL": "station-radioRC-SymphonicMetal",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Symphonic Black Metal",
+     "streamURL": "http://radioapp1st.hwdevstudio.com:9005/",
+     "imageURL": "station-radioRC-SymphonicBlackMetal",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Thrash Metal",
+     "streamURL": "http://radioapp4th.hwdevstudio.com:9101/",
+     "imageURL": "station-radioRC-thrash",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "Viking Metal",
+     "streamURL": "http://radioapp2nd.hwdevstudio.com:9077/",
+     "imageURL": "station-radioRC-VikingMetal",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     }
+     ]
+}
