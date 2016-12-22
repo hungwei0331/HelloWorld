@@ -1,0 +1,117 @@
+{
+    "station":
+    [
+     {
+     "name": "Metal Online Radio",
+     "streamURL": "http://uk1.internet-radio.com:8294/live",
+     "imageURL": "metal-onlineRadio-1",
+     "desc": "Red Bloodstream",
+     "longDesc": ""
+     },
+     {
+     "name": "Metal Online Radio",
+     "streamURL": "http://173.245.78.90/;",
+     "imageURL": "metal-onlineRadio-2",
+     "desc": "idobi How!",
+     "longDesc": ""
+     },
+     {
+     "name": "Metal Online Radio",
+     "streamURL": "http://198.178.123.14:7346/;stream/1",
+     "imageURL": "metal-onlineRadio-3",
+     "desc": "KANC.COM",
+     "longDesc": ""
+     },
+     {
+     "name": "Metal Online Radio",
+     "streamURL": "http://192.99.62.212:9968/;stream/1",
+     "imageURL": "metal-onlineRadio-4",
+     "desc": "Epic Rock Radio",
+     "longDesc": ""
+     },
+     {
+     "name": "Metal Online Radio",
+     "streamURL": "http://178.18.137.248/;",
+     "imageURL": "metal-onlineRadio-5",
+     "desc": "Pinguin Radio",
+     "longDesc": ""
+     },
+     {
+     "name": "Metal Online Radio",
+     "streamURL": "http://192.99.62.212:9408/;stream/1",
+     "imageURL": "metal-onlineRadio-6",
+     "desc": "MetalRock.FM",
+     "longDesc": ""
+     },
+     {
+     "name": "Metal Online Radio",
+     "streamURL": "http://91.121.164.210:8380/;stream/1",
+     "imageURL": "metal-onlineRadio-7",
+     "desc": "Metal Nation Radio",
+     "longDesc": ""
+     },
+     {
+     "name": "Metal Online Radio",
+     "streamURL": "http://174.36.60.195:1283/;stream/1",
+     "imageURL": "metal-onlineRadio-8",
+     "desc": "Sick World Radio",
+     "longDesc": ""
+     },
+     {
+     "name": "Metal Online Radio",
+     "streamURL": "http://158.69.114.190:8042/;stream/1",
+     "imageURL": "metal-onlineRadio-9",
+     "desc": "Hand of Doom Radio",
+     "longDesc": ""
+     },
+     {
+     "name": "Metal Online Radio",
+     "streamURL": "http://192.99.62.212:9964/;stream/1",
+     "imageURL": "metal-onlineRadio-10",
+     "desc": "Metal Rock Radio",
+     "longDesc": ""
+     },
+     {
+     "name": "Metal Online Radio",
+     "streamURL": "http://188.40.32.140:8061/;stream/1",
+     "imageURL": "metal-onlineRadio-11",
+     "desc": "Metal Devastation Radio",
+     "longDesc": ""
+     },
+     {
+     "name": "Metal Online Radio",
+     "streamURL": "http://192.99.62.212:9904/;stream/1",
+     "imageURL": "metal-onlineRadio-12",
+     "desc": "Classic Metal Radio",
+     "longDesc": ""
+     },
+     {
+     "name": "Metal Online Radio",
+     "streamURL": "http://ca.radio-streamhosting.com:8006/;stream/1",
+     "imageURL": "metal-onlineRadio-13",
+     "desc": "Radio Gothic",
+     "longDesc": ""
+     },
+     {
+     "name": "Metal Online Radio",
+     "streamURL": "http://50.7.99.155:7388/;stream/1",
+     "imageURL": "metal-onlineRadio-14",
+     "desc": "Braingell Radio",
+     "longDesc": ""
+     },
+     {
+     "name": "Metal Online Radio",
+     "streamURL": "http://62.210.209.179:8030/;stream/1",
+     "imageURL": "metal-onlineRadio-15",
+     "desc": "Pagan Metal Radio",
+     "longDesc": ""
+     },
+     {
+     "name": "Metal Online Radio",
+     "streamURL": "http://50.7.99.155:7240/;stream/1",
+     "imageURL": "metal-onlineRadio-16",
+     "desc": "Fusion109 Radio",
+     "longDesc": ""
+     }
+     ]
+}

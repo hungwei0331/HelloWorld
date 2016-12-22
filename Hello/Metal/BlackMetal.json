@@ -1,0 +1,47 @@
+{
+    "station":
+    [
+      {
+      "name": "Black Metal",
+      "streamURL": "http://radioapp4th.hwdevstudio.com:9003/",
+      "imageURL": "station-BlackMetal",
+      "desc": "Radio Caprice",
+      "longDesc": ""
+      },
+      {
+      "name": "Black Death Metal",
+      "streamURL": "http://radioapp2nd.hwdevstudio.com:9103/",
+      "imageURL": "station-BlackDeathMetal",
+      "desc": "Radio Caprice",
+      "longDesc": ""
+      },
+      {
+      "name": "Depressive Black Metal",
+      "streamURL": "http://radioapp1st.hwdevstudio.com:9011/",
+      "imageURL": "station-DepressiveBlackMetal",
+      "desc": "Radio Caprice",
+      "longDesc": ""
+      },
+      {
+      "name": "Melodic Black Metal",
+      "streamURL": "http://radioapp1st.hwdevstudio.com:9079/",
+      "imageURL": "station-MelodicBlackMetal",
+      "desc": "Radio Caprice",
+      "longDesc": ""
+      },
+      {
+      "name": "Progressive Black",
+      "streamURL": "http://radioapp2nd.hwdevstudio.com:9131/",
+      "imageURL": "station-ProgressiveBlack",
+      "desc": "Radio Caprice",
+      "longDesc": ""
+      },
+      {
+      "name": "Symphonic Black Metal",
+      "streamURL": "http://radioapp1st.hwdevstudio.com:9005/",
+      "imageURL": "station-radioRC-SymphonicBlackMetal",
+      "desc": "Radio Caprice",
+      "longDesc": ""
+      }
+     ]
+}

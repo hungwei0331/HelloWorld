@@ -1,0 +1,47 @@
+{
+    "station":
+    [
+      {
+      "name": "Black Death Metal",
+      "streamURL": "http://radioapp2nd.hwdevstudio.com:9103/",
+      "imageURL": "station-BlackDeathMetal",
+      "desc": "Radio Caprice",
+      "longDesc": ""
+      },
+      {
+      "name": "Brutal Death Metal",
+      "streamURL": "http://radioapp1st.hwdevstudio.com:9075/",
+      "imageURL": "station-BrutakDeathMetal",
+      "desc": "Radio Caprice",
+      "longDesc": ""
+      },
+      {
+      "name": "Death Core",
+      "streamURL": "http://radioapp2nd.hwdevstudio.com:9053/",
+      "imageURL": "station-DeathCore",
+      "desc": "Radio Caprice",
+      "longDesc": ""
+      },
+      {
+      "name": "Death Metal",
+      "streamURL": "http://radioapp4th.hwdevstudio.com:9083/",
+      "imageURL": "station-DeathMetal",
+      "desc": "Radio Caprice",
+      "longDesc": ""
+      },
+      {
+      "name": "Death Doom Metal",
+      "streamURL": "http://radioapp3rd.hwdevstudio.com:9007/",
+      "imageURL": "station-DeathDoomMetal",
+      "desc": "Radio Caprice",
+      "longDesc": ""
+      },
+      {
+      "name": "Progressive Death Metal",
+      "streamURL": "http://radioapp1st.hwdevstudio.com:9001/",
+      "imageURL": "station-ProgressiveDeathMetal",
+      "desc": "Radio Caprice",
+      "longDesc": ""
+      }
+     ]
+}

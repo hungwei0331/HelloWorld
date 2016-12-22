@@ -1,0 +1,26 @@
+{
+    "station":
+    [
+      {
+      "name": "Progressive Black",
+      "streamURL": "http://radioapp2nd.hwdevstudio.com:9131/",
+      "imageURL": "station-ProgressiveBlack",
+      "desc": "Radio Caprice",
+      "longDesc": ""
+      },
+      {
+      "name": "Progressive Metal",
+      "streamURL": "http://radioapp4th.hwdevstudio.com:9093/",
+      "imageURL": "station-ProgressiveMetal",
+      "desc": "Radio Caprice",
+      "longDesc": ""
+      },
+      {
+      "name": "Progressive Death Metal",
+      "streamURL": "http://radioapp1st.hwdevstudio.com:9001/",
+      "imageURL": "station-ProgressiveDeathMetal",
+      "desc": "Radio Caprice",
+      "longDesc": ""
+      }
+     ]
+}

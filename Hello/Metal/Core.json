@@ -1,0 +1,54 @@
+{
+    "station":
+    [
+      {
+      "name": "Death Core",
+      "streamURL": "http://radioapp2nd.hwdevstudio.com:9053/",
+      "imageURL": "station-DeathCore",
+      "desc": "Radio Caprice",
+      "longDesc": ""
+      },
+      {
+      "name": "Emocore / Screamo",
+      "streamURL": "http://radioapp1st.hwdevstudio.com:9119/",
+      "imageURL": "station-EmocoreScreamo",
+      "desc": "Radio Caprice",
+      "longDesc": ""
+      },
+      {
+      "name": "Grind Core",
+      "streamURL": "http://radioapp4th.hwdevstudio.com:9115/",
+      "imageURL": "station-GrindCore",
+      "desc": "Radio Caprice",
+      "longDesc": ""
+      },
+      {
+      "name": "Hardcore",
+      "streamURL": "http://radioapp2nd.hwdevstudio.com:9081/",
+      "imageURL": "station-Hardcore",
+      "desc": "Radio Caprice",
+      "longDesc": ""
+      },
+      {
+      "name": "Metal Core",
+      "streamURL": "http://radioapp3rd.hwdevstudio.com:9027/",
+      "imageURL": "station-MetalCore",
+      "desc": "Radio Caprice",
+      "longDesc": ""
+      },
+      {
+      "name": "Post Hard Core",
+      "streamURL": "http://radioapp1st.hwdevstudio.com:9087/",
+      "imageURL": "station-PostHardCore",
+      "desc": "Radio Caprice",
+      "longDesc": ""
+      },
+      {
+      "name": "Rap Core",
+      "streamURL": "http://radioapp3rd.hwdevstudio.com:9043/",
+      "imageURL": "station-radioRC-RapCore",
+      "desc": "Radio Caprice",
+      "longDesc": ""
+      }
+     ]
+}
