@@ -74,24 +74,9 @@
      "longDesc": ""
      },
      {
-     "name": "PostRock - Postrocks.me",
-     "streamURL": "http://postrocksme.hwdevstudio.com:8000/",
-     "imageURL": "station-postrockme",
-     "desc": "",
-     "longDesc": ""
-     },
-
-     {
      "name": "PostRock - RadioCaprice",
      "streamURL": "http://radioapp2nd.hwdevstudio.com:9043/",
      "imageURL": "station-radioRC-postRock",
-     "desc": "",
-     "longDesc": ""
-     },
-     {
-     "name": "PostRock - UnPopularRadio",
-     "streamURL": "http://UnpopularRadio.unionpost.org:8000/",
-     "imageURL": "station-UnpopularRadio-postRock",
      "desc": "",
      "longDesc": ""
      }

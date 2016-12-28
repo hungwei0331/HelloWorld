@@ -24,13 +24,6 @@
      },
      {
      "name": "J - POP",
-     "streamURL": "http://jpbigb.hwdevstudio.com:8091/",
-     "imageURL": "station-BigBRadio",
-     "desc": "Big B Radio",
-     "longDesc": ""
-     },
-     {
-     "name": "J - POP",
      "streamURL": "http://jpfriendsforever.hwdevstudio.com:8072/",
      "imageURL": "station-FriendsForever",
      "desc": "Friends Forever",
@@ -41,13 +34,6 @@
      "streamURL": "http://audio.misproductions.com/japan128k",
      "imageURL": "station-JapanARadio",
      "desc": "Japan A Radio",
-     "longDesc": ""
-     },
-     {
-     "name": "J - POP",
-     "streamURL": "http://perseus.shoutca.st:8050/stream2",
-     "imageURL": "station-JapanimRadio",
-     "desc": "Japanim Radio",
      "longDesc": ""
      },
      {
@@ -90,20 +76,6 @@
      "streamURL": "http://radio.jphip.com:8800/",
      "imageURL": "station-J-PHiPRadio",
      "desc": "J-PHiP Radio",
-     "longDesc": ""
-     },
-     {
-     "name": "J - POP",
-     "streamURL": "http://jpmcradio.hwdevstudio.com:8264/;stream/1",
-     "imageURL": "station-McRadio",
-     "desc": "Mc Radio",
-     "longDesc": ""
-     },
-     {
-     "name": "J - POP",
-     "streamURL": "http://jpotakudesho.hwdevstudio.com:9862/",
-     "imageURL": "station-Otakudesho",
-     "desc": "Otakudesho",
      "longDesc": ""
      },
      {

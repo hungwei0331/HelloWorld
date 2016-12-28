@@ -23,13 +23,6 @@
      "longDesc": ""
      },
      {
-     "name": "BigB Radio",
-     "streamURL": "http://jpbigb.hwdevstudio.com:8091/",
-     "imageURL": "station-BigBRadio",
-     "desc": "",
-     "longDesc": ""
-     },
-     {
      "name": "Friends Forever",
      "streamURL": "http://jpfriendsforever.hwdevstudio.com:8072/",
      "imageURL": "station-FriendsForever",
@@ -40,13 +33,6 @@
      "name": "JapanA Radio",
      "streamURL": "http://audio.misproductions.com/japan128k",
      "imageURL": "station-JapanARadio",
-     "desc": "",
-     "longDesc": ""
-     },
-     {
-     "name": "Japanim Radio",
-     "streamURL": "http://perseus.shoutca.st:8050/stream2",
-     "imageURL": "station-JapanimRadio",
      "desc": "",
      "longDesc": ""
      },
@@ -89,20 +75,6 @@
      "name": "J-PHiP Radio",
      "streamURL": "http://radio.jphip.com:8800/",
      "imageURL": "station-J-PHiPRadio",
-     "desc": "",
-     "longDesc": ""
-     },
-     {
-     "name": "Mc Radio",
-     "streamURL": "http://jpmcradio.hwdevstudio.com:8264/;stream/1",
-     "imageURL": "station-McRadio",
-     "desc": "",
-     "longDesc": ""
-     },
-     {
-     "name": "Otakudesho",
-     "streamURL": "http://jpotakudesho.hwdevstudio.com:9862/",
-     "imageURL": "station-Otakudesho",
      "desc": "",
      "longDesc": ""
      },

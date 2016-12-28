@@ -9,13 +9,6 @@
      "longDesc": ""
      },
      {
-     "name": "Classical 91.5 - Classical",
-     "streamURL": "http://pubint.ic.llnwd.net/stream/pubint_wxxifm",
-     "imageURL": "station-RadioCaprice-Capital91.5",
-     "desc": "",
-     "longDesc": ""
-     },
-     {
      "name": "Capital 95.5 - Classical",
      "streamURL": "http://65.19.131.165/agmedia28-khfmfmmp3-48?session-id=1106886702",
      "imageURL": "station-RadioCaprice-Capital95.5",
@@ -26,13 +19,6 @@
      "name": "Capital 96.3 - Classical",
      "streamURL": "http://zoomcast.vs.hc1.ca/cfmz.mp3",
      "imageURL": "station-RadioCaprice-Capital96.3",
-     "desc": "",
-     "longDesc": ""
-     },
-     {
-     "name": "Capital - Classical",
-     "streamURL": "http://9453.live.streamtheworld.com:3690/CLASSICALSTREAM_SC",
-     "imageURL": "station-RadioCaprice-CapitalClassical",
      "desc": "",
      "longDesc": ""
      },

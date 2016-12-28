@@ -2,20 +2,6 @@
     "station":
     [
      {
-     "name": "Addicted Radio",
-     "streamURL": "http://wms-13.streamsrus.com:12610/;2259128721115653stream.nsv",
-     "imageURL": "station-AddictedRadio",
-     "desc": "",
-     "longDesc": "",
-     },
-     {
-     "name": "Afro House Club DJs",
-     "streamURL": "http://www.worldnetbox.net:8070/;670719355444359stream.nsv",
-     "imageURL": "station-AfroHouseClubDJs",
-     "desc": "",
-     "longDesc": "",
-     },
-     {
      "name": "Anything Goes Radio",
      "streamURL": "http://149.202.69.29/listen/ahd929kmb",
      "imageURL": "station-AnythingGoesRadio",
@@ -47,13 +33,6 @@
      "name": "Deered Radio",
      "streamURL": "http://cast.deeredradio.com:8000/stream_128",
      "imageURL": "station-DeeredRadio",
-     "desc": "",
-     "longDesc": "",
-     },
-     {
-     "name": "DJ Radio",
-     "streamURL": "http://streamplus50.leonex.de:17140/;008947303587476stream.nsv",
-     "imageURL": "station-DJRadio",
      "desc": "",
      "longDesc": "",
      },
@@ -107,23 +86,9 @@
      "longDesc": "",
      },
      {
-     "name": "Jr EDM Radio",
-     "streamURL": "http://50.22.212.194:8030/;134015969970648stream.nsv",
-     "imageURL": "station-JrEdmRadio",
-     "desc": "",
-     "longDesc": "",
-     },
-     {
      "name": "Mixadance FM",
      "streamURL": "http://radio.promodj.com:8000/mixadancefm",
      "imageURL": "station-MixadanceFM",
-     "desc": "",
-     "longDesc": "",
-     },
-     {
-     "name": "Music Base FM",
-     "streamURL": "http://89.31.134.105:96/;558960586263948stream.nsv",
-     "imageURL": "station-MusicBaseFM",
      "desc": "",
      "longDesc": "",
      },
@@ -159,13 +124,6 @@
      "name": "Pressure Radio",
      "streamURL": "http://ic2256.c786.fast-serv.com/live",
      "imageURL": "station-PressureRadio",
-     "desc": "",
-     "longDesc": "",
-     },
-     {
-     "name": "Radio Party DJmixes",
-     "streamURL": "http://djmixes.radioparty.pl:8035/;587775771407359stream.nsv",
-     "imageURL": "station-RadioPartyDJmixes",
      "desc": "",
      "longDesc": "",
      },
