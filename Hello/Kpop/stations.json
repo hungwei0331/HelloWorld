@@ -10,20 +10,6 @@
      "longDesc": ""
      },
      {
-     "name": "KPOP - Big B Radio",
-     "streamURL": "http://koreabigbradio.hwdevstudio.com:9002/;",
-     "imageURL": "station-BigBRadio",
-     "desc": "",
-     "longDesc": ""
-     },
-     {
-     "name": "KPOP - Cast.CC",
-     "streamURL": "http://cast.cc:8888/;7481479083291727stream.nsv",
-     "imageURL": "station-Cast.CC",
-     "desc": "",
-     "longDesc": ""
-     },
-     {
      "name": "KPOP - Connection Aqp",
      "streamURL": "http://37.187.250.76:9860/;stream/1",
      "imageURL": "station-ConnectionAqp",
@@ -41,20 +27,6 @@
      "name": "KPOP - Generaction",
      "streamURL": "http://192.99.14.225:9962/;",
      "imageURL": "station-Generaction",
-     "desc": "",
-     "longDesc": ""
-     },
-     {
-     "name": "KPOP - G-Kpop",
-     "streamURL": "http://koreagkpop.hwdevstudio.com:9970/",
-     "imageURL": "station-G-Kpop",
-     "desc": "",
-     "longDesc": ""
-     },
-     {
-     "name": "KPOP - Jango.com",
-     "streamURL": "http://cd09.128.music.static.jango.com/music/05/60/06/0560069319.mp3",
-     "imageURL": "station-Jango.com",
      "desc": "",
      "longDesc": ""
      },
@@ -97,13 +69,6 @@
      "name": "KPOP - Radcaprice",
      "streamURL": "http://radioapp1st.hwdevstudio.com:9097/",
      "imageURL": "station-radioRC",
-     "desc": "",
-     "longDesc": ""
-     },
-     {
-     "name": "KPOP - Teveo Asia",
-     "streamURL": "http://koreateveoasia.hwdevstudio.com:9561/;stream/1",
-     "imageURL": "station-TeveoAsia",
      "desc": "",
      "longDesc": ""
      }

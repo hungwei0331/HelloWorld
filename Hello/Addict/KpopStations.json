@@ -10,20 +10,6 @@
      },
      {
      "name": "K - POP",
-     "streamURL": "http://koreabigbradio.hwdevstudio.com:9002/;",
-     "imageURL": "station-BigBRadio",
-     "desc": "Big B Radio",
-     "longDesc": ""
-     },
-     {
-     "name": "K - POP",
-     "streamURL": "http://cast.cc:8888/;7481479083291727stream.nsv",
-     "imageURL": "station-Cast.CC",
-     "desc": "Cast.CC",
-     "longDesc": ""
-     },
-     {
-     "name": "K - POP",
      "streamURL": "http://37.187.250.76:9860/;stream/1",
      "imageURL": "station-ConnectionAqp",
      "desc": "Connection Aqp",
@@ -43,20 +29,7 @@
      "desc": "Generaction",
      "longDesc": ""
      },
-     {
-     "name": "K - POP",
-     "streamURL": "http://koreagkpop.hwdevstudio.com:9970/",
-     "imageURL": "station-G-Kpop",
-     "desc": "G-Kpop",
-     "longDesc": ""
-     },
-     {
-     "name": "K - POP",
-     "streamURL": "http://cd09.128.music.static.jango.com/music/05/60/06/0560069319.mp3",
-     "imageURL": "station-Jango.com",
-     "desc": "Jango.com",
-     "longDesc": ""
-     },
+
      {
      "name": "K - POP",
      "streamURL": "http://stream.omgkpop.com:8234/stream",
