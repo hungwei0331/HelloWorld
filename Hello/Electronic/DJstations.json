@@ -3,20 +3,6 @@
     [
      {
      "name": "Disc Jockey",
-     "streamURL": "http://wms-13.streamsrus.com:12610/;2259128721115653stream.nsv",
-     "imageURL": "station-AddictedRadio",
-     "desc": "Addicted Radio",
-     "longDesc": ""
-     },
-     {
-     "name": "Disc Jockey",
-     "streamURL": "http://www.worldnetbox.net:8070/;670719355444359stream.nsv",
-     "imageURL": "station-AfroHouseClubDJs",
-     "desc": "Afro House Club DJs",
-     "longDesc": ""
-     },
-     {
-     "name": "Disc Jockey",
      "streamURL": "http://149.202.69.29/listen/ahd929kmb",
      "imageURL": "station-AnythingGoesRadio",
      "desc": "Anything Goes Radio",
@@ -48,13 +34,6 @@
      "streamURL": "http://cast.deeredradio.com:8000/stream_128",
      "imageURL": "station-DeeredRadio",
      "desc": "Deered Radio",
-     "longDesc": ""
-     },
-     {
-     "name": "Disc Jockey",
-     "streamURL": "http://streamplus50.leonex.de:17140/;008947303587476stream.nsv",
-     "imageURL": "station-DJRadio",
-     "desc": "DJ Radio",
      "longDesc": ""
      },
      {
@@ -108,23 +87,9 @@
      },
      {
      "name": "Disc Jockey",
-     "streamURL": "http://50.22.212.194:8030/;134015969970648stream.nsv",
-     "imageURL": "station-JrEdmRadio",
-     "desc": "Jr EDM Radio",
-     "longDesc": ""
-     },
-     {
-     "name": "Disc Jockey",
      "streamURL": "http://radio.promodj.com:8000/mixadancefm",
      "imageURL": "station-MixadanceFM",
      "desc": "Mixadance FM",
-     "longDesc": ""
-     },
-     {
-     "name": "Disc Jockey",
-     "streamURL": "http://89.31.134.105:96/;558960586263948stream.nsv",
-     "imageURL": "station-MusicBaseFM",
-     "desc": "Music Base FM",
      "longDesc": ""
      },
      {
@@ -160,13 +125,6 @@
      "streamURL": "http://ic2256.c786.fast-serv.com/live",
      "imageURL": "station-PressureRadio",
      "desc": "Pressure Radio",
-     "longDesc": ""
-     },
-     {
-     "name": "Disc Jockey",
-     "streamURL": "http://djmixes.radioparty.pl:8035/;587775771407359stream.nsv",
-     "imageURL": "station-RadioPartyDJmixes",
-     "desc": "Radio Party DJmixes",
      "longDesc": ""
      },
      {

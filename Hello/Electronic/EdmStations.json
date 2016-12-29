@@ -10,51 +10,9 @@
      },
      {
      "name": "EDM",
-     "streamURL": "http://autodj.hwdevstudio.com:12098/;stream/1",
-     "imageURL": "station-radioRC-AutoDJ",
-     "desc": "Auto DJ",
-     "longDesc": ""
-     },
-     {
-     "name": "EDM",
      "streamURL": "http://stream.radiobest.eu:8000/192",
      "imageURL": "station-radioRC-BestRadio",
      "desc": "Best Radio",
-     "longDesc": ""
-     },
-     {
-     "name": "EDM",
-     "streamURL": "http://djtw34k.hwdevstudio.com:8017/;",
-     "imageURL": "station-radioRC-DJTw34k",
-     "desc": "DJ Tw34k",
-     "longDesc": ""
-     },
-     {
-     "name": "EDM",
-     "streamURL": "http://dance985.hwdevstudio.com:9996/;",
-     "imageURL": "station-radioRC-Dance985",
-     "desc": "Dance 985",
-     "longDesc": ""
-     },
-     {
-     "name": "EDM",
-     "streamURL": "http://uk4.internet-radio.com:8400/;",
-     "imageURL": "station-radioRC-DanceAttack",
-     "desc": "Dance Attack",
-     "longDesc": ""
-     },
-     {
-     "name": "EDM",
-     "streamURL": "http://danceenable.hwdevstudio.com:35944/;",
-     "imageURL": "station-radioRC-DancaEnable",
-     "desc": "Dance Enable",
-     "longDesc": ""
-     },
-     {
-     "name": "EDM",
-     "streamURL": "http://uk4.internet-radio.com:15938/;",
-     "imageURL": "station-radioRC-GoHamRadio",
-     "desc": "GoHam Radio",
      "longDesc": ""
      },
      {
@@ -87,34 +45,6 @@
      },
      {
      "name": "EDM",
-     "streamURL": "http://us2.internet-radio.com:8338/live",
-     "imageURL": "station-radioRC-Fluxpavilion4",
-     "desc": "Fluxpavilion4",
-     "longDesc": ""
-     },
-     {
-     "name": "EDM",
-     "streamURL": "http://142.4.217.133:8398/;",
-     "imageURL": "station-radioRC-HouseHoldRadio",
-     "desc": "House Hold Radio",
-     "longDesc": ""
-     },
-     {
-     "name": "EDM",
-     "streamURL": "http://infusedradio.hwdevstudio.com:8240/;",
-     "imageURL": "station-radioRC-InfusedRadio",
-     "desc": "Infused Radio",
-     "longDesc": ""
-     },
-     {
-     "name": "EDM",
-     "streamURL": "http://m2club.hwdevstudio.com:443/;",
-     "imageURL": "station-radioRC-M2Club",
-     "desc": "M2 Club",
-     "longDesc": ""
-     },
-     {
-     "name": "EDM",
      "streamURL": "http://positivamix.hwdevstudio.com:8890/;stream/1",
      "imageURL": "station-radioRC-PositivaMix",
      "desc": "Positiva Mix",
@@ -125,13 +55,6 @@
      "streamURL": "http://us3.internet-radio.com:8087/;stream",
      "imageURL": "station-radioRC-PulseEDM",
      "desc": "Pulse Radio",
-     "longDesc": ""
-     },
-     {
-     "name": "EDM",
-     "streamURL": "http://uk4.internet-radio.com:10138/;stream.mp3",
-     "imageURL": "station-radioRC-RealDanceRadio",
-     "desc": "Real Dance Radio",
      "longDesc": ""
      },
      {
@@ -153,13 +76,6 @@
      "streamURL": "http://tmdradio.hwdevstudio.com:8223/;stream/1",
      "imageURL": "station-radioRC-TMDRadio",
      "desc": "TMD Radio",
-     "longDesc": ""
-     },
-     {
-     "name": "EDM",
-     "streamURL": "http://213.239.205.210:8010/;",
-     "imageURL": "station-radioRC-TorontoGlobal",
-     "desc": "Ultra Radio",
      "longDesc": ""
      }
      ]
