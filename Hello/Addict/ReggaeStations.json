@@ -16,19 +16,18 @@
      "desc": "Radio Caprice",
      "longDesc": ""
      },
-     
-     {
-     "name": "Reggae",
-     "streamURL": "http://74.208.170.137:9340/kreglow",
-     "imageURL": "station-Caprice-Caprice-BigReggaeMix-Reggae",
-     "desc": "Big Reggae Mix",
-     "longDesc": ""
-     },
      {
      "name": "Reggae",
      "streamURL": "http://hestia2.cdnstream.com/1301_128",
      "imageURL": "station-radioRC-Kingstown-Reggae141",
      "desc": "Kingstown",
+     "longDesc": ""
+     },
+     {
+     "name": "Reggae",
+     "streamURL": "http://cdn-static.tunein.com/201607201539/js/lib/jPlayer/blank.mp3",
+     "imageURL": "station-radioRC-FM-ReggaeTrade",
+     "desc": "ReggaeTrade",
      "longDesc": ""
      },
      {
@@ -50,13 +49,6 @@
      "streamURL": "http://radioapp3rd.hwdevstudio.com:9063/",
      "imageURL": "station-Caprice-Reggae",
      "desc": "Radio Caprice",
-     "longDesc": ""
-     },
-     {
-     "name": "Reggae",
-     "streamURL": "http://s40.myradiostream.com:8494/",
-     "imageURL": "station-ReggaeWorldRadio-Reggae",
-     "desc": "Reggae World Radio",
      "longDesc": ""
      },
      {
@@ -93,7 +85,6 @@
      "imageURL": "station-radioRC-Caprice-SkaPunk",
      "desc": "Radio Caprice",
      "longDesc": ""
-     },
-
+     }
      ]
 }
