@@ -2,6 +2,13 @@
     "station":
     [
      {
+     "name": "Addicted Radio -Roots Reggae",
+     "streamURL": "http://wms-13.streamsrus.com:17130/",
+     "imageURL": "station-AddictedToRadio-RootsReggae",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
      "name": "Caprice - Dance Hall",
      "streamURL": "http://radioapp2nd.hwdevstudio.com:9057/",
      "imageURL": "station-Caprice-Caprice-DanceHall",
@@ -44,20 +51,6 @@
      "longDesc": ""
      },
      {
-     "name": "ReggaeTrade - Reggae",
-     "streamURL": "http://cdn-static.tunein.com/201607201539/js/lib/jPlayer/blank.mp3",
-     "imageURL": "station-radioRC-FM-ReggaeTrade",
-     "desc": "",
-     "longDesc": ""
-     },
-     {
-     "name": "LaGrosse Radio - Reggae",
-     "streamURL": "http://176.31.246.142:8300/",
-     "imageURL": "station-LaGrosseRadio-Reggae",
-     "desc": "",
-     "longDesc": ""
-     },
-     {
      "name": "Npo FunX - Reggae",
      "streamURL": "http://icecast.omroep.nl/funx-reggae-sb-aac",
      "imageURL": "station-NPOFunX-Reggae",
@@ -75,13 +68,6 @@
      "name": "Show Time - Reggae",
      "streamURL": "http://eu1.fastcast4u.com:2670/showtime",
      "imageURL": "station-ShowTimeRadio-Reggae",
-     "desc": "",
-     "longDesc": ""
-     },
-     {
-     "name": "Webadub Hot - Reggae",
-     "streamURL": "http://cabhs30.sonixcast.com:9282/",
-     "imageURL": "station-ShowTimeRadio-WebadubHotRadio-Reggae",
      "desc": "",
      "longDesc": ""
      }
