@@ -65,7 +65,13 @@
      "desc": "",
      "longDesc": ""
      },
-
+     {
+     "name": "PostRock - Postrocks.me",
+     "streamURL": "http://postrocksme.hwdevstudio.com:8000/",
+     "imageURL": "station-postrockme",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "PostRock - PostRockMusic",
      "streamURL": "http://postrockmusic.hwdevstudio.com:9996/;",
