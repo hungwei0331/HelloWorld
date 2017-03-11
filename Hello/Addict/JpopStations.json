@@ -52,13 +52,6 @@
      },
      {
      "name": "J - POP",
-     "streamURL": "http://jppowerplayhiphop.hwdevstudio.com:9260/;stream/1",
-     "imageURL": "station-J-POPPowerplayHipHop",
-     "desc": "J-POP Powerplay HipHop",
-     "longDesc": ""
-     },
-     {
-     "name": "J - POP",
      "streamURL": "http://cabhs31.sonixcast.com:20002/;stream/1",
      "imageURL": "station-J-POPPowerplayKawaii",
      "desc": "J-POP Powerplay Kawaii",

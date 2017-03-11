@@ -30,13 +30,6 @@
      "longDesc": ""
      },
      {
-     "name": "KTI Country - Country",
-     "streamURL": "http://8323.live.streamtheworld.com/WKTIFM_SC",
-     "imageURL": "station-KTICountry-Country",
-     "desc": "",
-     "longDesc": ""
-     },
-     {
      "name": "Radio Caprice - Alternative",
      "streamURL": "http://radioapp1st.hwdevstudio.com:9103",
      "imageURL": "station-RadioCaprice-AlernativeCountry",
@@ -61,13 +54,6 @@
      "name": "Radio Caprice - Country Pop",
      "streamURL": "http://radioapp1st.hwdevstudio.com:9123",
      "imageURL": "station-RadioCaprice-CountryPop",
-     "desc": "",
-     "longDesc": ""
-     },
-     {
-     "name": "Radio Country Live - Country",
-     "streamURL": "http://tier1.radiostreamlive.com:8080/radiocountrylive_aac-low",
-     "imageURL": "station-RadioCountryLive-Country",
      "desc": "",
      "longDesc": ""
      }

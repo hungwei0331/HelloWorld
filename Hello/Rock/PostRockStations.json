@@ -53,12 +53,11 @@
      },
      {
      "name": "PostRock",
-     "streamURL": "https://streaming.radio.co/sbfe60794e/listen",
-     "imageURL": "station-postFFP",
-     "desc": "FarPastPost",
+     "streamURL": "http://postrocksme.hwdevstudio.com:8000/",
+     "imageURL": "station-postrockme",
+     "desc": "Postrocks.me",
      "longDesc": ""
      },
-
      {
      "name": "PostRock",
      "streamURL": "http://postrockmusic.hwdevstudio.com:9996/;",

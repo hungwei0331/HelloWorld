@@ -73,13 +73,6 @@
      },
      {
      "name": "Disc Jockey",
-     "streamURL": "http://198.105.220.12:9623/Live",
-     "imageURL": "station-IbizaLiveRadio",
-     "desc": "Ibiza Live Radio",
-     "longDesc": ""
-     },
-     {
-     "name": "Disc Jockey",
      "streamURL": "http://stream1.laut.fm/justclubbing",
      "imageURL": "station-JustClubbing",
      "desc": "JustClubbing",

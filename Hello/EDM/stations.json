@@ -4,57 +4,72 @@
      {
      "name": "EDM - All Hits Remix",
      "streamURL": "http://149.56.23.7:20252/;stream/1",
-     "imageURL": "station-radioRC-WohooRadio"
+     "imageURL": "station-radioRC-WohooRadio",
+     "desc": "",
+     "longDesc": ""
      },
      {
      "name": "EDM - Best Radio",
      "streamURL": "http://stream.radiobest.eu:8000/192",
-     "imageURL": "station-radioRC-BestRadio"
+     "imageURL": "station-radioRC-BestRadio",
+     "desc": "",
+     "longDesc": ""
      },
      {
      "name": "EDM - EDM Radio",
      "streamURL": "http://s1.edmradio.ru:8000/128",
-     "imageURL": "station-radioRC-EDM"
+     "imageURL": "station-radioRC-EDM",
+     "desc": "",
+     "longDesc": ""
      },
      {
      "name": "EDM - EDM Spain",
      "streamURL": "http://edmspain.hwdevstudio.com:3540/stream3",
-     "imageURL": "station-radioRC-EDMSpain"
-     },
-     {
-     "name": "EDM - EDM One",
-     "streamURL": "http://hemnos.cdnstream.com/1449_128",
-     "imageURL": "station-radioRC-EDMOne"
+     "imageURL": "station-radioRC-EDMSpain",
+     "desc": "",
+     "longDesc": ""
      },
      {
      "name": "EDM - EDM Station",
      "streamURL": "http://online.edmradiostation.com:8000/stream",
-     "imageURL": "station-radioRC-EDMRadiostation"
+     "imageURL": "station-radioRC-EDMRadiostation",
+     "desc": "",
+     "longDesc": ""
      },
      {
      "name": "EDM - Positiva Mix",
      "streamURL": "http://positivamix.hwdevstudio.com:8890/;stream/1",
-     "imageURL": "station-radioRC-PositivaMix"
+     "imageURL": "station-radioRC-PositivaMix",
+     "desc": "",
+     "longDesc": ""
      },
      {
      "name": "EDM - Pulse Radio",
-     "streamURL": "http://us3.internet-radio.com:8087/;stream",
-     "imageURL": "station-radioRC-PulseEDM"
+     "streamURL": "http://pulseedm.cdnstream1.com:8124/1373_128",
+     "imageURL": "station-radioRC-PulseEDM",
+     "desc": "",
+     "longDesc": ""
      },
      {
      "name": "EDM - The Mash Radio",
      "streamURL": "http://us2.internet-radio.com:8214/live",
-     "imageURL": "station-radioRC-TheMashRadio"
+     "imageURL": "station-radioRC-TheMashRadio",
+     "desc": "",
+     "longDesc": ""
      },
      {
      "name": "EDM - TMB DJ Radio",
      "streamURL": "http://tmbdjradio.hwdevstudio.com:8000/;",
-     "imageURL": "station-radioRC-TMBDJRadio"
+     "imageURL": "station-radioRC-TMBDJRadio",
+     "desc": "",
+     "longDesc": ""
      },
      {
      "name": "EDM - TMD Radio",
      "streamURL": "http://tmdradio.hwdevstudio.com:8223/;stream/1",
-     "imageURL": "station-radioRC-TMDRadio"
+     "imageURL": "station-radioRC-TMDRadio",
+     "desc": "",
+     "longDesc": ""
      }
      ]
 }

@@ -31,13 +31,6 @@
      },
      {
      "name": "EDM",
-     "streamURL": "http://hemnos.cdnstream.com/1449_128",
-     "imageURL": "station-radioRC-EDMOne",
-     "desc": "EDM One",
-     "longDesc": ""
-     },
-     {
-     "name": "EDM",
      "streamURL": "http://online.edmradiostation.com:8000/stream",
      "imageURL": "station-radioRC-EDMRadiostation",
      "desc": "EDM Station",
@@ -52,7 +45,7 @@
      },
      {
      "name": "EDM",
-     "streamURL": "http://us3.internet-radio.com:8087/;stream",
+     "streamURL": "http://pulseedm.cdnstream1.com:8124/1373_128",
      "imageURL": "station-radioRC-PulseEDM",
      "desc": "Pulse Radio",
      "longDesc": ""
