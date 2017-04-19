@@ -10,13 +10,6 @@
      "longDesc": ""
      },
      {
-     "name": "KPOP - Connection Aqp",
-     "streamURL": "http://37.187.250.76:9860/;stream/1",
-     "imageURL": "station-ConnectionAqp",
-     "desc": "",
-     "longDesc": ""
-     },
-     {
      "name": "KPOP - Geberacion",
      "streamURL": "http://koreageberacion.hwdevstudio.com:9974/",
      "imageURL": "station-Geberacion",
