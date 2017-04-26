@@ -24,13 +24,6 @@
      "longDesc": ""
      },
      {
-     "name": "KPOP - OMG Kpop",
-     "streamURL": "http://stream.omgkpop.com:8234/stream",
-     "imageURL": "station-OMGKpop",
-     "desc": "",
-     "longDesc": ""
-     },
-     {
      "name": "KPOP - Korea Pop",
      "streamURL": "http://koreakoreapop.hwdevstudio.com:8226/",
      "imageURL": "station-KoreaPop",

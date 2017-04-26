@@ -22,14 +22,6 @@
      "desc": "Generaction",
      "longDesc": ""
      },
-
-     {
-     "name": "K - POP",
-     "streamURL": "http://stream.omgkpop.com:8234/stream",
-     "imageURL": "station-OMGKpop",
-     "desc": "OMG Kpop",
-     "longDesc": ""
-     },
      {
      "name": "K - POP",
      "streamURL": "http://koreakoreapop.hwdevstudio.com:8226/",
