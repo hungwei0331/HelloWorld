@@ -94,13 +94,6 @@
      },
      {
      "name": "Metal Online Radio",
-     "streamURL": "http://50.7.99.155:7388/;stream/1",
-     "imageURL": "metal-onlineRadio-14",
-     "desc": "Braingell Radio",
-     "longDesc": ""
-     },
-     {
-     "name": "Metal Online Radio",
      "streamURL": "http://62.210.209.179:8030/;stream/1",
      "imageURL": "metal-onlineRadio-15",
      "desc": "Pagan Metal Radio",

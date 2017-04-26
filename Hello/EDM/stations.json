@@ -30,13 +30,6 @@
      "longDesc": ""
      },
      {
-     "name": "EDM - EDM Station",
-     "streamURL": "http://online.edmradiostation.com:8000/stream",
-     "imageURL": "station-radioRC-EDMRadiostation",
-     "desc": "",
-     "longDesc": ""
-     },
-     {
      "name": "EDM - Positiva Mix",
      "streamURL": "http://positivamix.hwdevstudio.com:8890/;stream/1",
      "imageURL": "station-radioRC-PositivaMix",
