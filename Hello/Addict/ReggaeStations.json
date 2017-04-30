@@ -37,13 +37,6 @@
      "longDesc": ""
      },
      {
-     "name": "Reggae",
-     "streamURL": "http://eu1.fastcast4u.com:2670/showtime",
-     "imageURL": "station-ShowTimeRadio-Reggae",
-     "desc": "Show Time Radio",
-     "longDesc": ""
-     },
-     {
      "name": "Roots Reggae",
      "streamURL": "http://wms-13.streamsrus.com:17130/",
      "imageURL": "station-AddictedToRadio-RootsReggae",

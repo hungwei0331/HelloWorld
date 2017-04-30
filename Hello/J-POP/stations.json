@@ -2,13 +2,6 @@
     "station":
     [
      {
-     "name": "AnimeAmaze",
-     "streamURL": "http://apple.neostreams.info:10007/",
-     "imageURL": "station-AnimeAmaze",
-     "desc": "",
-     "longDesc": ""
-     },
-     {
      "name": "Armitages Dimension",
      "streamURL": "http://jparmitages.hwdevstudio.com:8012/",
      "imageURL": "station-ArmitagesDimension",

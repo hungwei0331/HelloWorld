@@ -52,13 +52,6 @@
      },
      {
      "name": "Funk",
-     "streamURL": "http://37.59.25.137:8405/Manhattan",
-     "imageURL": "station-ManhattanShow",
-     "desc": "Manhattan Show",
-     "longDesc": ""
-     },
-     {
-     "name": "Funk",
      "streamURL": "http://stream3.laut.fm/mojo",
      "imageURL": "station-Mojo",
      "desc": "Mojo",

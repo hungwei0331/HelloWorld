@@ -24,13 +24,6 @@
      },
      {
      "name": "Classical",
-     "streamURL": "http://zoomcast.vs.hc1.ca/cfmz.mp3",
-     "imageURL": "station-RadioCaprice-Capital96.3",
-     "desc": "Capital 96.3",
-     "longDesc": ""
-     },
-     {
-     "name": "Classical",
      "streamURL": "http://cms.stream.publicradio.org/cms.mp3",
      "imageURL": "station-RadioCaprice-ClassicalMPR",
      "desc": "Classical MPR",

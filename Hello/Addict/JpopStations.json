@@ -3,13 +3,6 @@
     [
      {
      "name": "J - POP",
-     "streamURL": "http://apple.neostreams.info:10007/",
-     "imageURL": "station-AnimeAmaze",
-     "desc": "AnimeAmaze",
-     "longDesc": ""
-     },
-     {
-     "name": "J - POP",
      "streamURL": "http://jparmitages.hwdevstudio.com:8012/",
      "imageURL": "station-ArmitagesDimension",
      "desc": "Armitages Dimension",

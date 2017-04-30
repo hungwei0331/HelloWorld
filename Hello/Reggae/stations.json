@@ -63,13 +63,6 @@
      "imageURL": "station-radioRC-Kingstown-Reggae141",
      "desc": "",
      "longDesc": ""
-     },
-     {
-     "name": "Show Time - Reggae",
-     "streamURL": "http://eu1.fastcast4u.com:2670/showtime",
-     "imageURL": "station-ShowTimeRadio-Reggae",
-     "desc": "",
-     "longDesc": ""
      }
      ]
 }

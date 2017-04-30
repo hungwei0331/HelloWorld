@@ -16,13 +16,6 @@
    "longDesc": ""
    },
    {
-   "name": "DJ - Bunker TV",
-   "streamURL": "http://bunkertv.de:8002/bb.mp3",
-   "imageURL": "station-BunkerTV",
-   "desc": "",
-   "longDesc": ""
-   },
-   {
    "name": "DJ - Cyber One Radio",
    "streamURL": "http://s6.mediastreaming.it:9112/;709556786755851stream.nsv",
    "imageURL": "station-CyberOneRadio",
@@ -124,13 +117,6 @@
    "name": "DJ - Sonus FM",
    "streamURL": "http://136.243.16.19:8000/stream/2/",
    "imageURL": "station-SonusFM",
-   "desc": "",
-   "longDesc": ""
-   },
-   {
-   "name": "DJ - Tomorrow Radio",
-   "streamURL": "http://stream05.iloveradio.de/iloveradio2.mp3",
-   "imageURL": "station-TomorrowRadio",
    "desc": "",
    "longDesc": ""
    }

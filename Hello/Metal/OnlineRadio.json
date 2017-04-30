@@ -10,13 +10,6 @@
      },
      {
      "name": "Metal Online Radio",
-     "streamURL": "http://173.245.78.90/;",
-     "imageURL": "metal-onlineRadio-2",
-     "desc": "idobi How!",
-     "longDesc": ""
-     },
-     {
-     "name": "Metal Online Radio",
      "streamURL": "http://198.178.123.14:7346/;stream/1",
      "imageURL": "metal-onlineRadio-3",
      "desc": "KANC.COM",

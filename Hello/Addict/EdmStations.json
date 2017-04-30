@@ -52,7 +52,7 @@
      },
      {
      "name": "EDM",
-     "streamURL": "http://tmbdjradio.hwdevstudio.com:8000/;",
+     "streamURL": "http://79.18.65.103:8000/;",
      "imageURL": "station-radioRC-TMBDJRadio",
      "desc": "TMB DJ Radio",
      "longDesc": ""

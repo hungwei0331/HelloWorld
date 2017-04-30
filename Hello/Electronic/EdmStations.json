@@ -31,13 +31,6 @@
      },
      {
      "name": "EDM",
-     "streamURL": "http://online.edmradiostation.com:8000/stream",
-     "imageURL": "station-radioRC-EDMRadiostation",
-     "desc": "EDM Station",
-     "longDesc": ""
-     },
-     {
-     "name": "EDM",
      "streamURL": "http://positivamix.hwdevstudio.com:8890/;stream/1",
      "imageURL": "station-radioRC-PositivaMix",
      "desc": "Positiva Mix",
@@ -59,7 +52,7 @@
      },
      {
      "name": "EDM",
-     "streamURL": "http://tmbdjradio.hwdevstudio.com:8000/;",
+     "streamURL": "http://79.18.65.103:8000/;",
      "imageURL": "station-radioRC-TMBDJRadio",
      "desc": "TMB DJ Radio",
      "longDesc": ""
