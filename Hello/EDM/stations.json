@@ -11,7 +11,21 @@
      {
      "name": "EDM - Best Radio",
      "streamURL": "http://stream.radiobest.eu:8000/192",
-     "imageURL": "station-radioRC-BestRadio",
+     "imageURL": "station-radioRC-EDMOne",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "EDM - Dance 985",
+     "streamURL": "http://stream.radiobest.eu:8000/192",
+     "imageURL": "station-radioRC-RealDanceRadio",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "EDM - Dance Attack",
+     "streamURL": "http://212.83.150.15:8563/",
+     "imageURL": "station-radioRC-DanceAttack",
      "desc": "",
      "longDesc": ""
      },
@@ -26,6 +40,20 @@
      "name": "EDM - EDM Spain",
      "streamURL": "http://edmspain.hwdevstudio.com:3540/stream3",
      "imageURL": "station-radioRC-EDMSpain",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "EDM - Kiss JC",
+     "streamURL": "http://sc.ipip.cz:8030/;stream.nsv",
+     "imageURL": "station-radioRC-EDMRadiostation",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "EDM - Polymer Radio",
+     "streamURL": "http://uk5.internet-radio.com:8185/;stream",
+     "imageURL": "station-radioRC-Rhythm86",
      "desc": "",
      "longDesc": ""
      },
@@ -61,6 +89,13 @@
      "name": "EDM - TMD Radio",
      "streamURL": "http://tmdradio.hwdevstudio.com:8223/;stream/1",
      "imageURL": "station-radioRC-TMDRadio",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "EDM - TW34K Radio",
+     "streamURL": "http://174.36.232.226:8017/;",
+     "imageURL": "station-radioRC-Dance985",
      "desc": "",
      "longDesc": ""
      }

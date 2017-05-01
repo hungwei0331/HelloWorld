@@ -51,6 +51,13 @@
    "longDesc": ""
    },
    {
+   "name": "DJ - Frisky Radio",
+   "streamURL": "http://stream2.friskyradio.com:7000/frisky_mp3_hi/;",
+   "imageURL": "station-TomorrowRadio",
+   "desc": "",
+   "longDesc": ""
+   },
+   {
    "name": "DJ - I Love 2 Dance",
    "streamURL": "http://stream08.iloveradio.de/iloveradio2.mp3",
    "imageURL": "station-ILove2Dance",
