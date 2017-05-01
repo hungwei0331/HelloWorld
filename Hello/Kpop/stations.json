@@ -9,6 +9,20 @@
      "longDesc": ""
      },
      {
+     "name": "KPOP - BigB Radio",
+     "streamURL": "http://64.71.79.181:8042/;",
+     "imageURL": "station-BigBRadio",
+     "desc": "Big B Radio",
+     "longDesc": ""
+     },
+     {
+     "name": "KPOP - Entertainment",
+     "streamURL": "http://204.12.193.98:8445/stream",
+     "imageURL": "station-ConnectionAqp",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
      "name": "KPOP - Geberacion",
      "streamURL": "http://koreageberacion.hwdevstudio.com:9974/",
      "imageURL": "station-Geberacion",
@@ -20,6 +34,13 @@
      "streamURL": "http://192.99.14.225:9962/;",
      "imageURL": "station-Generaction",
      "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "KPOP - Jphip.com",
+     "streamURL": "http://radio.jphip.com:8800/;",
+     "imageURL": "station-Cast.CC",
+     "desc": "Jphip.com",
      "longDesc": ""
      },
      {
@@ -41,6 +62,20 @@
      "streamURL": "http://koreakpopway.hwdevstudio.com:4906/Live",
      "imageURL": "station-Kpopway",
      "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "KPOP - Mexico",
+     "streamURL": "http://204.12.193.98:8415/;",
+     "imageURL": "station-G-Kpop",
+     "desc": "Kpop Mexico",
+     "longDesc": ""
+     },
+     {
+     "name": "KPOP - Omg Kpop",
+     "streamURL": "http://stream.omgkpop.com:8234/stream",
+     "imageURL": "station-OMGKpop",
+     "desc": "Omg Kpop",
      "longDesc": ""
      },
      {
