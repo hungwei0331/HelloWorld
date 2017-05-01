@@ -17,6 +17,13 @@
      },
      {
      "name": "J - POP",
+     "streamURL": "http://64.71.79.181:8018/;",
+     "imageURL": "station-BigBRadio",
+     "desc": "Big B Radio",
+     "longDesc": ""
+     },
+     {
+     "name": "J - POP",
      "streamURL": "http://jpfriendsforever.hwdevstudio.com:8072/",
      "imageURL": "station-FriendsForever",
      "desc": "Friends Forever",
@@ -69,6 +76,13 @@
      "streamURL": "http://radioapp1st.hwdevstudio.com:9065/",
      "imageURL": "station-RadioCaprice",
      "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "J - POP",
+     "streamURL": "http://149.56.23.7:20278/;",
+     "imageURL": "station-JapanimRadio",
+     "desc": "Saku 17",
      "longDesc": ""
      },
      {
