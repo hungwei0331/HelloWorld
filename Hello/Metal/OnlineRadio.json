@@ -24,13 +24,6 @@
      },
      {
      "name": "Metal Online Radio",
-     "streamURL": "http://178.18.137.248/;",
-     "imageURL": "metal-onlineRadio-5",
-     "desc": "Pinguin Radio",
-     "longDesc": ""
-     },
-     {
-     "name": "Metal Online Radio",
      "streamURL": "http://192.99.62.212:9408/;stream/1",
      "imageURL": "metal-onlineRadio-6",
      "desc": "MetalRock.FM",

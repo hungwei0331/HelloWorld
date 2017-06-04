@@ -17,13 +17,6 @@
      },
      {
      "name": "Disc Jockey",
-     "streamURL": "http://s6.mediastreaming.it:9112/;709556786755851stream.nsv",
-     "imageURL": "station-CyberOneRadio",
-     "desc": "Cyber One Radio",
-     "longDesc": ""
-     },
-     {
-     "name": "Disc Jockey",
      "streamURL": "http://cast.deeredradio.com:8000/stream_128",
      "imageURL": "station-DeeredRadio",
      "desc": "Deered Radio",
@@ -87,23 +80,9 @@
      },
      {
      "name": "Disc Jockey",
-     "streamURL": "http://www.pink-city-beats.com:8000/PCBradio-Web-128.mp3",
-     "imageURL": "station-PinkCityRadio",
-     "desc": "Pink City Radio",
-     "longDesc": ""
-     },
-     {
-     "name": "Disc Jockey",
      "streamURL": "http://listen.pioneerdjradio.com:8550/;529235736806505stream.nsv",
      "imageURL": "station-PioneerDJRadio",
      "desc": "Pioneer DJ Radio",
-     "longDesc": ""
-     },
-     {
-     "name": "Disc Jockey",
-     "streamURL": "http://mp3.planetradio.de/plrchannels/hqnightwax.mp3",
-     "imageURL": "station-PlanetRadio",
-     "desc": "Planet Radio",
      "longDesc": ""
      },
      {
