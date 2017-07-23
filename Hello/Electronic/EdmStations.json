@@ -59,13 +59,6 @@
      },
      {
      "name": "EDM",
-     "streamURL": "http://positivamix.hwdevstudio.com:8890/;stream/1",
-     "imageURL": "station-radioRC-PositivaMix",
-     "desc": "Positiva Mix",
-     "longDesc": ""
-     },
-     {
-     "name": "EDM",
      "streamURL": "http://pulseedm.cdnstream1.com:8124/1373_128",
      "imageURL": "station-radioRC-PulseEDM",
      "desc": "Pulse Radio",
@@ -76,13 +69,6 @@
      "streamURL": "http://us2.internet-radio.com:8214/live",
      "imageURL": "station-radioRC-TheMashRadio",
      "desc": "The Mash Radio",
-     "longDesc": ""
-     },
-     {
-     "name": "EDM",
-     "streamURL": "http://79.18.65.103:8000/;",
-     "imageURL": "station-radioRC-TMBDJRadio",
-     "desc": "TMB DJ Radio",
      "longDesc": ""
      },
      {

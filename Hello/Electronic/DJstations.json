@@ -98,13 +98,6 @@
      "imageURL": "station-PressureRadio",
      "desc": "Pressure Radio",
      "longDesc": ""
-     },
-     {
-     "name": "Disc Jockey",
-     "streamURL": "http://136.243.16.19:8000/stream/2/",
-     "imageURL": "station-SonusFM",
-     "desc": "Sonus FM",
-     "longDesc": ""
      }
      ]
 }
