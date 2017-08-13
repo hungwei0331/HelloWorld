@@ -17,13 +17,6 @@
      },
      {
      "name": "Classical",
-     "streamURL": "http://65.19.131.165/agmedia28-khfmfmmp3-48?session-id=1106886702",
-     "imageURL": "station-RadioCaprice-Capital95.5",
-     "desc": "Capital 95.5",
-     "longDesc": ""
-     },
-     {
-     "name": "Classical",
      "streamURL": "http://cms.stream.publicradio.org/cms.mp3",
      "imageURL": "station-RadioCaprice-ClassicalMPR",
      "desc": "Classical MPR",

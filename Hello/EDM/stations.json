@@ -30,23 +30,9 @@
      "longDesc": ""
      },
      {
-     "name": "EDM - EDM Radio",
-     "streamURL": "http://s1.edmradio.ru:8000/128",
-     "imageURL": "station-radioRC-EDM",
-     "desc": "",
-     "longDesc": ""
-     },
-     {
      "name": "EDM - EDM Spain",
      "streamURL": "http://edmspain.hwdevstudio.com:3540/stream3",
      "imageURL": "station-radioRC-EDMSpain",
-     "desc": "",
-     "longDesc": ""
-     },
-     {
-     "name": "EDM - Kiss JC",
-     "streamURL": "http://sc.ipip.cz:8030/;stream.nsv",
-     "imageURL": "station-radioRC-EDMRadiostation",
      "desc": "",
      "longDesc": ""
      },

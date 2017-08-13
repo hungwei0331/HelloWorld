@@ -2,13 +2,6 @@
     "station":
     [
      {
-     "name": "181.FM The Beat",
-     "streamURL": "http://listen.181fm.com/181-beat_64k.aac?noPreRoll=true",
-     "imageURL": "station-181.FMTheBeat",
-     "desc": "Radio Caprice",
-     "longDesc": ""
-     },
-     {
      "name": "Abstract HipHop",
      "streamURL": "http://79.111.14.76:9093/",
      "imageURL": "station-AbstractHipHop",
@@ -40,6 +33,13 @@
      "name": "Southern Rap / HipHop",
      "streamURL": "http://79.111.119.111:9129/",
      "imageURL": "station-SouthernRap",
+     "desc": "Radio Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "The Beat",
+     "streamURL": "http://listen.181fm.com/181-beat_64k.aac?noPreRoll=true",
+     "imageURL": "station-181.FMTheBeat",
      "desc": "Radio Caprice",
      "longDesc": ""
      },

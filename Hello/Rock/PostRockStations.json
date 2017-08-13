@@ -9,13 +9,6 @@
      "longDesc": ""
      },
      {
-     "name": "Ambient",
-     "streamURL": "http://sleepingpill.hwdevstudio.com/asp-s",
-     "imageURL": "station-SleepingPill",
-     "desc": "Sleeping Pill",
-     "longDesc": ""
-     },
-     {
      "name": "Experimental",
      "streamURL": "http://lyra.shoutca.st:8206/stream",
      "imageURL": "station-MNSFM",

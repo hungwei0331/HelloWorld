@@ -44,13 +44,6 @@
      "longDesc": ""
      },
      {
-     "name": "KPOP - Korea Pop",
-     "streamURL": "http://koreakoreapop.hwdevstudio.com:8226/",
-     "imageURL": "station-KoreaPop",
-     "desc": "",
-     "longDesc": ""
-     },
-     {
      "name": "KPOP - Kpop Repaly",
      "streamURL": "http://rosetta.shoutca.st:8325/",
      "imageURL": "station-KpopRepaly",

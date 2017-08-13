@@ -3,13 +3,6 @@
     [
      {
      "name": "Funk",
-     "streamURL": "http://91.121.59.45:10035/amysfm",
-     "imageURL": "station-AmysFM",
-     "desc": "Amys FM",
-     "longDesc": ""
-     },
-     {
-     "name": "Funk",
      "streamURL": "http://allzic08.ice.infomaniak.ch/allzic11.mp3",
      "imageURL": "station-AllzicFunk",
      "desc": "Allzic Funk",

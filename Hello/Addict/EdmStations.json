@@ -31,13 +31,6 @@
      },
      {
      "name": "EDM",
-     "streamURL": "http://s1.edmradio.ru:8000/128",
-     "imageURL": "station-radioRC-EDM",
-     "desc": "EDM Radio",
-     "longDesc": ""
-     },
-     {
-     "name": "EDM",
      "streamURL": "http://edmspain.hwdevstudio.com:3540/stream3",
      "imageURL": "station-radioRC-EDMSpain",
      "desc": "EDM Spain",
@@ -45,23 +38,9 @@
      },
      {
      "name": "EDM",
-     "streamURL": "http://sc.ipip.cz:8030/;stream.nsv",
-     "imageURL": "station-radioRC-EDMRadiostation",
-     "desc": "Kiss JC",
-     "longDesc": ""
-     },
-     {
-     "name": "EDM",
      "streamURL": "http://uk5.internet-radio.com:8185/;stream",
      "imageURL": "station-radioRC-Rhythm86",
      "desc": "Polymer Radio",
-     "longDesc": ""
-     },
-     {
-     "name": "EDM",
-     "streamURL": "http://positivamix.hwdevstudio.com:8890/;stream/1",
-     "imageURL": "station-radioRC-PositivaMix",
-     "desc": "Positiva Mix",
      "longDesc": ""
      },
      {
@@ -76,13 +55,6 @@
      "streamURL": "http://us2.internet-radio.com:8214/live",
      "imageURL": "station-radioRC-TheMashRadio",
      "desc": "The Mash Radio",
-     "longDesc": ""
-     },
-     {
-     "name": "EDM",
-     "streamURL": "http://79.18.65.103:8000/;",
-     "imageURL": "station-radioRC-TMBDJRadio",
-     "desc": "TMB DJ Radio",
      "longDesc": ""
      },
      {
