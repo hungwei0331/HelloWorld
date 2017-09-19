@@ -38,7 +38,7 @@
      },
      {
      "name": "KPOP - Jphip.com",
-     "streamURL": "http://radio.jphip.com:8800/;",
+     "streamURL": "http://173.192.105.231:7304/;stream/1",
      "imageURL": "station-Cast.CC",
      "desc": "Jphip.com",
      "longDesc": ""
