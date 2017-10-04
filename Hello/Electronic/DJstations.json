@@ -73,13 +73,6 @@
      },
      {
      "name": "Disc Jockey",
-     "streamURL": "http://radio.promodj.com:8000/mixadancefm",
-     "imageURL": "station-MixadanceFM",
-     "desc": "Mixadance FM",
-     "longDesc": ""
-     },
-     {
-     "name": "Disc Jockey",
      "streamURL": "http://listen.pioneerdjradio.com:8550/;529235736806505stream.nsv",
      "imageURL": "station-PioneerDJRadio",
      "desc": "Pioneer DJ Radio",

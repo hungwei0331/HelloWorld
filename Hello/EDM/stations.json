@@ -30,13 +30,6 @@
      "longDesc": ""
      },
      {
-     "name": "EDM - EDM Spain",
-     "streamURL": "http://edmspain.hwdevstudio.com:3540/stream3",
-     "imageURL": "station-radioRC-EDMSpain",
-     "desc": "",
-     "longDesc": ""
-     },
-     {
      "name": "EDM - Polymer Radio",
      "streamURL": "http://uk5.internet-radio.com:8185/;stream",
      "imageURL": "station-radioRC-Rhythm86",
@@ -47,13 +40,6 @@
      "name": "EDM - Pulse Radio",
      "streamURL": "http://pulseedm.cdnstream1.com:8124/1373_128",
      "imageURL": "station-radioRC-PulseEDM",
-     "desc": "",
-     "longDesc": ""
-     },
-     {
-     "name": "EDM - The Mash Radio",
-     "streamURL": "http://us2.internet-radio.com:8214/live",
-     "imageURL": "station-radioRC-TheMashRadio",
      "desc": "",
      "longDesc": ""
      },

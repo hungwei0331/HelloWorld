@@ -72,13 +72,6 @@
    "longDesc": ""
    },
    {
-   "name": "DJ - Mixadance FM",
-   "streamURL": "http://radio.promodj.com:8000/mixadancefm",
-   "imageURL": "station-MixadanceFM",
-   "desc": "",
-   "longDesc": ""
-   },
-   {
    "name": "DJ - Pioneer DJ Radio",
    "streamURL": "http://listen.pioneerdjradio.com:8550/;529235736806505stream.nsv",
    "imageURL": "station-PioneerDJRadio",
