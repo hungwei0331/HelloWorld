@@ -56,6 +56,27 @@
      "imageURL": "station-radioRC",
      "desc": "",
      "longDesc": ""
+     },
+     {
+     "name": "KPOP - RadioKing",
+     "streamURL": "https://listen.radioking.com/radio/15593/stream/28946",
+     "imageURL": "station-Cast.CC",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "KPOP - Kpop Way",
+     "streamURL": "http://kpopway.com",
+     "imageURL": "station-Kpopway",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "KPOP - JPHiP Radio",
+     "streamURL": "http://jphip.com/",
+     "imageURL": "station-Geberacion",
+     "desc": "",
+     "longDesc": ""
      }
      ]
 }
