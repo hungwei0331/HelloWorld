@@ -17,13 +17,6 @@
      },
      {
      "name": "Funk",
-     "streamURL": "http://185.52.127.157/de/33033/mp3_128.mp3",
-     "imageURL": "station-EngryFunky",
-     "desc": "Engry Funky",
-     "longDesc": ""
-     },
-     {
-     "name": "Funk",
      "streamURL": "http://streaming.hotmixradio.fm/hotmixradio-funky-128.mp3",
      "imageURL": "station-HotmixRadioFunky",
      "desc": "Hotmix Radio Funky",

@@ -24,13 +24,6 @@
      },
      {
      "name": "K - POP",
-     "streamURL": "http://173.192.105.231:7304/;stream/1",
-     "imageURL": "station-Geberacion",
-     "desc": "Geberacion",
-     "longDesc": ""
-     },
-     {
-     "name": "K - POP",
      "streamURL": "http://192.99.14.225:9962/;",
      "imageURL": "station-Generaction",
      "desc": "Generaction",
@@ -38,23 +31,9 @@
      },
      {
      "name": "K - POP",
-     "streamURL": "http://173.192.105.231:7304/;stream/1",
-     "imageURL": "station-Cast.CC",
-     "desc": "Jphip.com",
-     "longDesc": ""
-     },
-     {
-     "name": "K - POP",
      "streamURL": "http://rosetta.shoutca.st:8325/",
      "imageURL": "station-KpopRepaly",
      "desc": "Kpop Repaly",
-     "longDesc": ""
-     },
-     {
-     "name": "K - POP",
-     "streamURL": "http://koreakpopway.hwdevstudio.com:4906/Live",
-     "imageURL": "station-Kpopway",
-     "desc": "Kpop Way",
      "longDesc": ""
      },
      {
