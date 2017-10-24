@@ -30,6 +30,13 @@
      "longDesc": ""
      },
      {
+     "name": "KPOP - Kpop Way",
+     "streamURL": "http://198.105.214.140:2684/;stream/1",
+     "imageURL": "station-Kpopway",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
      "name": "KPOP - Mexico",
      "streamURL": "http://204.12.193.98:8415/;",
      "imageURL": "station-G-Kpop",
@@ -58,16 +65,9 @@
      "longDesc": ""
      },
      {
-     "name": "KPOP - RadioKing",
+     "name": "KPOP - Radio King",
      "streamURL": "https://listen.radioking.com/radio/15593/stream/28946",
      "imageURL": "station-Cast.CC",
-     "desc": "",
-     "longDesc": ""
-     },
-     {
-     "name": "KPOP - Kpop Way",
-     "streamURL": "http://198.105.214.140:2684/;stream/1",
-     "imageURL": "station-Kpopway",
      "desc": "",
      "longDesc": ""
      }

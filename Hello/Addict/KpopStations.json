@@ -17,13 +17,6 @@
      },
      {
      "name": "K - POP",
-     "streamURL": "http://204.12.193.98:8445/stream",
-     "imageURL": "station-ConnectionAqp",
-     "desc": "Entertainment",
-     "longDesc": ""
-     },
-     {
-     "name": "K - POP",
      "streamURL": "http://192.99.14.225:9962/;",
      "imageURL": "station-Generaction",
      "desc": "Generaction",
@@ -34,6 +27,13 @@
      "streamURL": "http://rosetta.shoutca.st:8325/",
      "imageURL": "station-KpopRepaly",
      "desc": "Kpop Repaly",
+     "longDesc": ""
+     },
+     {
+     "name": "KPOP - Kpop Way",
+     "streamURL": "http://198.105.214.140:2684/;stream/1",
+     "imageURL": "station-Kpopway",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -62,6 +62,13 @@
      "streamURL": "http://radioapp1st.hwdevstudio.com:9097/",
      "imageURL": "station-radioRC",
      "desc": "Rad Caprice",
+     "longDesc": ""
+     },
+     {
+     "name": "KPOP - Radio King",
+     "streamURL": "https://listen.radioking.com/radio/15593/stream/28946",
+     "imageURL": "station-Cast.CC",
+     "desc": "",
      "longDesc": ""
      }
      ]
