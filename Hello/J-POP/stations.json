@@ -2,35 +2,35 @@
     "station":
     [
      {
-     "name": "Armitages Dimension",
+     "name": "JPOP - Armitages",
      "streamURL": "http://jparmitages.hwdevstudio.com:8012/",
      "imageURL": "station-ArmitagesDimension",
      "desc": "",
      "longDesc": ""
      },
      {
-     "name": "Asia Dream Radio",
+     "name": "JPOP - Asia Dream ",
      "streamURL": "http://jpasiadream.hwdevstudio.com:9764/;stream/1",
      "imageURL": "station-AsiaDreamRadio",
      "desc": "",
      "longDesc": ""
      },
      {
-     "name": "Big B Radio",
+     "name": "JPOP - Big B Radio",
      "streamURL": "http://64.71.79.181:8018/;",
      "imageURL": "station-BigBRadio",
      "desc": "Big B Radio",
      "longDesc": ""
      },
      {
-     "name": "Friends Forever",
+     "name": "JPOP - Friends Forever",
      "streamURL": "http://jpfriendsforever.hwdevstudio.com:8072/",
      "imageURL": "station-FriendsForever",
      "desc": "",
      "longDesc": ""
      },
      {
-     "name": "JapanA Radio",
+     "name": "JPOP - JapanA Radio",
      "streamURL": "http://audio.misproductions.com/japan128k",
      "imageURL": "station-JapanARadio",
      "desc": "",
@@ -65,28 +65,28 @@
      "longDesc": ""
      },
      {
-     "name": "J-PHiP Radio",
+     "name": "JPOP - PHiP Radio",
      "streamURL": "http://radio.jphip.com:8800/",
      "imageURL": "station-J-PHiPRadio",
      "desc": "",
      "longDesc": ""
      },
      {
-     "name": "Radio Caprice",
+     "name": "JPOP - Radio Caprice",
      "streamURL": "http://radioapp1st.hwdevstudio.com:9065/",
      "imageURL": "station-RadioCaprice",
      "desc": "",
      "longDesc": ""
      },
      {
-     "name": "Sakura 17",
+     "name": "JPOP - Sakura 17",
      "streamURL": "http://149.56.23.7:20278/;",
      "imageURL": "station-JapanimRadio",
      "desc": "",
      "longDesc": ""
      },
      {
-     "name": "Yggdrasil Radio",
+     "name": "JPOP - Yggdrasil Radio",
      "streamURL": "http://jpyggdrasil.hwdevstudio.com:9200/",
      "imageURL": "station-YggdrasilRadio",
      "desc": "",

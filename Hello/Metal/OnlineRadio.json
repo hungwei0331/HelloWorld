@@ -31,13 +31,6 @@
      },
      {
      "name": "Metal Online Radio",
-     "streamURL": "http://91.121.164.210:8380/;stream/1",
-     "imageURL": "metal-onlineRadio-7",
-     "desc": "Metal Nation Radio",
-     "longDesc": ""
-     },
-     {
-     "name": "Metal Online Radio",
      "streamURL": "http://174.36.60.195:1283/;stream/1",
      "imageURL": "metal-onlineRadio-8",
      "desc": "Sick World Radio",
