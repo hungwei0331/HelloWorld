@@ -1,14 +1,16 @@
 {
    "EasonWu":
    {
-       "googleBannerAds": "ca-app-pub-3940256099942544/2934735716",
-       "googleNativeAds": "ca-app-pub-3940256099942544/4270592515",
-       "vponAds"  : "vpon"
+     "googleBannerAds": "ca-app-pub-3940256099942544/2934735716",
+     "googleNativeSmallAds" : "ca-app-pub-3940256099942544/4270592515",
+     "googleNativeLargeAds": "ca-app-pub-3940256099942544/8897359316",
+     "VponAds"  : "vpon"
    },
    "WesleyChen":
    {
-       "googleBannerAds": "ca-app-pub-3940256099942544/2934735716",
-       "googleNativeAds": "ca-app-pub-3940256099942544/4270592515",
-       "vponAds"  : "vpon"
+     "googleBannerAds": "ca-app-pub-3940256099942544/2934735716",
+     "googleNativeSmallAds" : "ca-app-pub-3940256099942544/4270592515",
+     "googleNativeLargeAds": "ca-app-pub-3940256099942544/8897359316",
+     "VponAds"  : "vpon"
    }
 }
