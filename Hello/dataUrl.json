@@ -1,12 +1,14 @@
 {
    "EasonWu":
    {
-       "googleAds": "ca-app-pub-3940256099942544/2934735716",
+       "googleBannerAds": "ca-app-pub-3940256099942544/2934735716",
+       "googleNativeAds": "ca-app-pub-3940256099942544/4270592515",
        "vponAds"  : "vpon"
    },
    "WesleyChen":
    {
-       "googleAds": "ca-app-pub-3940256099942544/2934735716",
+       "googleBannerAds": "ca-app-pub-3940256099942544/2934735716",
+       "googleNativeAds": "ca-app-pub-3940256099942544/4270592515",
        "vponAds"  : "vpon"
    }
 }
