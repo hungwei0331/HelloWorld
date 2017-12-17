@@ -9,13 +9,6 @@
      "longDesc": ""
      },
      {
-     "name": "Disco Club",
-     "streamURL": "http://stream3.laut.fm/discoclub",
-     "imageURL": "station-DiscoClub",
-     "desc": "",
-     "longDesc": ""
-     },
-     {
      "name": "Hotmix Radio Funky",
      "streamURL": "http://streaming.hotmixradio.fm/hotmixradio-funky-128.mp3",
      "imageURL": "station-HotmixRadioFunky",
@@ -33,13 +26,6 @@
      "name": "Luxfunk Radio",
      "streamURL": "http://37.221.209.146:5000/luxfunkradio.mp3",
      "imageURL": "station-LuxfunkRadio",
-     "desc": "",
-     "longDesc": ""
-     },
-     {
-     "name": "Mojo",
-     "streamURL": "http://stream3.laut.fm/mojo",
-     "imageURL": "station-Mojo",
      "desc": "",
      "longDesc": ""
      },

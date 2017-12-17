@@ -30,13 +30,6 @@
    "longDesc": ""
    },
    {
-   "name": "DJ - Elektronisch QuerBeat",
-   "streamURL": "http://stream1.laut.fm/elektronisch_querbeat",
-   "imageURL": "station-ElektronischQuerBeat",
-   "desc": "",
-   "longDesc": ""
-   },
-   {
    "name": "DJ - Freeminded FM",
    "streamURL": "http://freemindedfmstream.nl/",
    "imageURL": "station-FreemindedFM",
@@ -61,13 +54,6 @@
    "name": "DJ - I Love About",
    "streamURL": "http://stream02.iloveradio.de/iloveradio7.mp3",
    "imageURL": "station-ILoveAbout",
-   "desc": "",
-   "longDesc": ""
-   },
-   {
-   "name": "DJ - Just Clubbing",
-   "streamURL": "http://stream1.laut.fm/justclubbing",
-   "imageURL": "station-JustClubbing",
    "desc": "",
    "longDesc": ""
    },

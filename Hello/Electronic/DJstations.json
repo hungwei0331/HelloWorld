@@ -31,13 +31,6 @@
      },
      {
      "name": "Disc Jockey",
-     "streamURL": "http://stream1.laut.fm/elektronisch_querbeat",
-     "imageURL": "station-ElektronischQuerBeat",
-     "desc": "Elektronisch QuerBeat",
-     "longDesc": ""
-     },
-     {
-     "name": "Disc Jockey",
      "streamURL": "http://freemindedfmstream.nl/",
      "imageURL": "station-FreemindedFM",
      "desc": "Freeminded FM",
@@ -62,13 +55,6 @@
      "streamURL": "http://stream02.iloveradio.de/iloveradio7.mp3",
      "imageURL": "station-ILoveAbout",
      "desc": "I Love About",
-     "longDesc": ""
-     },
-     {
-     "name": "Disc Jockey",
-     "streamURL": "http://stream1.laut.fm/justclubbing",
-     "imageURL": "station-JustClubbing",
-     "desc": "JustClubbing",
      "longDesc": ""
      },
      {
