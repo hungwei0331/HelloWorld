@@ -3,9 +3,9 @@
     [
      {
      "name": "Blues",
-     "streamURL": "http://79.120.77.11:9013/",
+     "streamURL": "http://radio.jointil.net:9992",
      "imageURL": "station-Blues",
-     "desc": "Radio Caprice",
+     "desc": "Joint Radio",
      "longDesc": ""
      },
      {
@@ -122,9 +122,9 @@
      },
      {
      "name": "Reggae",
-     "streamURL": "http://radioapp3rd.hwdevstudio.com:9063/",
+     "streamURL": "http://radio.jointil.net:9998",
      "imageURL": "station-Caprice-Reggae",
-     "desc": "Radio Caprice",
+     "desc": "Joint Radio",
      "longDesc": ""
      },
      {
@@ -147,6 +147,13 @@
      "imageURL": "station-radioRC-shoegazing",
      "desc": "Radio Caprice",
      "longDesc": ""
-     }
+     },
+     {
+    "name": "PSY Trance / GOA Trance",
+    "streamURL": "http://radio.jointil.net:9986",
+    "imageURL": "electronic-reserveImg-1",
+    "desc": "Joint Radio Beat",
+    "longDesc": ""
+    },
     ]
 }

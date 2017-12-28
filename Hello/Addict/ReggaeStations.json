@@ -37,6 +37,13 @@
      "longDesc": ""
      },
      {
+     "name": "Reggae",
+     "streamURL": "http://radio.jointil.net:9998",
+     "imageURL": "reggae-reserveImg-1",
+     "desc": "Joint Radio - ",
+     "longDesc": ""
+     },
+     {
      "name": "Roots Reggae",
      "streamURL": "http://wms-13.streamsrus.com:17130/",
      "imageURL": "station-AddictedToRadio-RootsReggae",

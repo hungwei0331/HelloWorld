@@ -16,6 +16,13 @@
      "longDesc": ""
      },
      {
+     "name": "Blues - Joint Radio",
+     "streamURL": "http://radio.jointil.net:9992",
+     "imageURL": "blues-reserveImg-1",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
      "name": "Chicago Blues",
      "streamURL": "http://79.111.14.76:9091/",
      "imageURL": "station-ChicagoBlues",
