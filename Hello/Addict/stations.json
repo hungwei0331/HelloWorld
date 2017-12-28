@@ -107,6 +107,13 @@
      "longDesc": ""
      },
      {
+      "name": "PSY / GOA Trance",
+      "streamURL": "http://radio.jointil.net:9986",
+      "imageURL": "electronic-reserveImg-1",
+      "desc": "Joint Radio Beat",
+      "longDesc": ""
+     },
+     {
      "name": "Punk",
      "streamURL": "http://radioapp4th.hwdevstudio.com:9043/",
      "imageURL": "station-PunkRock",
@@ -147,13 +154,6 @@
      "imageURL": "station-radioRC-shoegazing",
      "desc": "Radio Caprice",
      "longDesc": ""
-     },
-     {
-    "name": "PSY Trance / GOA Trance",
-    "streamURL": "http://radio.jointil.net:9986",
-    "imageURL": "electronic-reserveImg-1",
-    "desc": "Joint Radio Beat",
-    "longDesc": ""
-    },
+     }
     ]
 }
