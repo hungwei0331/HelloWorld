@@ -17,20 +17,6 @@
      },
      {
      "name": "EDM",
-     "streamURL": "http://198.100.156.207:9996/;",
-     "imageURL": "station-radioRC-RealDanceRadio",
-     "desc": "Dance 985",
-     "longDesc": ""
-     },
-     {
-     "name": "EDM",
-     "streamURL": "http://212.83.150.15:8563/",
-     "imageURL": "station-radioRC-DanceAttack",
-     "desc": "Dance Attack",
-     "longDesc": ""
-     },
-     {
-     "name": "EDM",
      "streamURL": "http://uk5.internet-radio.com:8185/;stream",
      "imageURL": "station-radioRC-Rhythm86",
      "desc": "Polymer Radio",

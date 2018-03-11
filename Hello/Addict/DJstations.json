@@ -66,13 +66,6 @@
      },
      {
      "name": "Disc Jockey",
-     "streamURL": "http://stream3.ibizasonica.com:8750/;302938024819008stream.nsv",
-     "imageURL": "station-PuraSonica",
-     "desc": "Pura Sonica",
-     "longDesc": ""
-     },
-     {
-     "name": "Disc Jockey",
      "streamURL": "http://ic2256.c786.fast-serv.com/live",
      "imageURL": "station-PressureRadio",
      "desc": "Pressure Radio",
