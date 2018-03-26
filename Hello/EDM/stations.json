@@ -16,6 +16,13 @@
      "longDesc": ""
      },
      {
+     "name": "EDM - Dance Attack FM",
+     "streamURL": "http://uk4.internet-radio.com:8049/;stream",
+     "imageURL": "station-radioRC-DanceAttack",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
      "name": "EDM - Polymer Radio",
      "streamURL": "http://uk5.internet-radio.com:8185/;stream",
      "imageURL": "station-radioRC-Rhythm86",
