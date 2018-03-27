@@ -24,6 +24,20 @@
      },
      {
      "name": "EDM",
+     "streamURL": "http://s1.edmradio.ru:8000/live",
+     "imageURL": "station-radioRC-EDM",
+     "desc": "Edm Radio",
+     "longDesc": ""
+     },
+     {
+     "name": "EDM",
+     "streamURL": "http://94.23.209.225:8062/;",
+     "imageURL": "station-radioRC-TheMashRadio",
+     "desc": "Eventbe Radio",
+     "longDesc": ""
+     },
+     {
+     "name": "EDM",
      "streamURL": "http://uk5.internet-radio.com:8185/;stream",
      "imageURL": "station-radioRC-Rhythm86",
      "desc": "Polymer Radio",
@@ -38,6 +52,13 @@
      },
      {
      "name": "EDM",
+     "streamURL": "http://188.165.232.7:8000/;",
+     "imageURL": "station-JustClubbing",
+     "desc": "RHYTHM 86",
+     "longDesc": ""
+     },
+     {
+     "name": "EDM",
      "streamURL": "http://tmdradio.hwdevstudio.com:8223/;stream/1",
      "imageURL": "station-radioRC-TMDRadio",
      "desc": "TMD Radio",
@@ -48,6 +69,13 @@
      "streamURL": "http://174.36.232.226:8017/;",
      "imageURL": "station-radioRC-Dance985",
      "desc": "TW34K Radio",
+     "longDesc": ""
+     },
+     {
+     "name": "EDM",
+     "streamURL": "http://178.32.62.163:8227/;stream/1",
+     "imageURL": "station-ElektronischQuerBeat",
+     "desc": "Zone",
      "longDesc": ""
      }
      ]
