@@ -53,8 +53,8 @@
      {
      "name": "EDM",
      "streamURL": "http://188.165.232.7:8000/;",
-     "imageURL": "station-JustClubbing",
-     "desc": "RHYTHM 86",
+     "imageURL": "station-radioRC-EDMSpain",
+     "desc": "Rhythm 86",
      "longDesc": ""
      },
      {
@@ -74,7 +74,7 @@
      {
      "name": "EDM",
      "streamURL": "http://178.32.62.163:8227/;stream/1",
-     "imageURL": "station-ElektronischQuerBeat",
+     "imageURL": "station-radioRC-TMBDJRadio",
      "desc": "Zone",
      "longDesc": ""
      }
