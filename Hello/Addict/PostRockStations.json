@@ -53,13 +53,6 @@
      },
      {
      "name": "PostRock",
-     "streamURL": "http://postrockmusic.hwdevstudio.com:9996/;",
-     "imageURL": "station-postrockmusic",
-     "desc": "PostRockMusic",
-     "longDesc": ""
-     },
-     {
-     "name": "PostRock",
      "streamURL": "http://radioapp2nd.hwdevstudio.com:9043/",
      "imageURL": "station-radioRC-postRock",
      "desc": "RadioCaprice",
