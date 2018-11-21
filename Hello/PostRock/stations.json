@@ -16,27 +16,12 @@
      "longDesc": ""
      },
      {
-     "name": "Experimental - Fluid Radio",
-     "streamURL": "http://fluidradio.hwdevstudio.com:9270/",
-     "imageURL": "station-Experimental",
-     "desc": "",
-     "longDesc": ""
-     },
-     {
-     "name": "Shoegazing - Dkfm",
-     "streamURL": "http://cabhs30.sonixcast.com:9346/",
-     "imageURL": "station-DKFM",
-     "desc": "",
-     "longDesc": ""
-     },
-     {
      "name": "Shoegazing - Primal Radio",
      "streamURL": "http://primalradio.hwdevstudio.com:8018/",
      "imageURL": "station-PrimalRadio",
      "desc": "",
      "longDesc": ""
      },
-
      {
      "name": "Shoegazing - RadioCaprice",
      "streamURL": "http://radioapp1st.hwdevstudio.com:9077/",
@@ -52,8 +37,15 @@
      "longDesc": ""
      },
      {
+    "name": "PostRock - 6Forty",
+    "streamURL": "http://54.173.171.80:8000/6forty",
+    "imageURL": "station-Experimental",
+    "desc": "",
+    "longDesc": ""
+     },
+     {
      "name": "PostRock - Postrocks.me",
-     "streamURL": "http://postrocksme.hwdevstudio.com:8000/",
+     "streamURL": "http://postrocks.me:8000/;",
      "imageURL": "station-postrockme",
      "desc": "",
      "longDesc": ""
