@@ -23,6 +23,13 @@
      "longDesc": ""
      },
      {
+     "name": "KPOP - JPHiP",
+     "streamURL": "http://radio.jphip.com:8800/;",
+     "imageURL": "station-ConnectionAqp",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
      "name": "KPOP - Kpop Repaly",
      "streamURL": "http://rosetta.shoutca.st:8325/",
      "imageURL": "station-KpopRepaly",
@@ -31,7 +38,7 @@
      },
      {
      "name": "KPOP - Kpop Way",
-     "streamURL": "http://198.105.214.140:2684/;stream/1",
+     "streamURL": "https://streamer.radio.co/s06b196587/listen",
      "imageURL": "station-Kpopway",
      "desc": "",
      "longDesc": ""
@@ -61,13 +68,6 @@
      "name": "KPOP - Radcaprice",
      "streamURL": "http://radioapp1st.hwdevstudio.com:9097/",
      "imageURL": "station-radioRC",
-     "desc": "",
-     "longDesc": ""
-     },
-     {
-     "name": "KPOP - Radio King",
-     "streamURL": "https://listen.radioking.com/radio/15593/stream/28946",
-     "imageURL": "station-Cast.CC",
      "desc": "",
      "longDesc": ""
      }
