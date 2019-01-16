@@ -17,23 +17,23 @@
      },
      {
      "name": "Metal Online Radio",
-     "streamURL": "http://192.99.62.212:9968/;stream/1",
+     "streamURL": "http://158.69.38.194:8734/;stream/1",
      "imageURL": "metal-onlineRadio-4",
      "desc": "Epic Rock Radio",
      "longDesc": ""
      },
      {
      "name": "Metal Online Radio",
-     "streamURL": "http://192.99.62.212:9408/;stream/1",
+     "streamURL": "http://158.69.38.194:8766/;stream/1",
      "imageURL": "metal-onlineRadio-6",
      "desc": "MetalRock.FM",
      "longDesc": ""
      },
      {
      "name": "Metal Online Radio",
-     "streamURL": "http://174.36.60.195:1283/;stream/1",
+     "streamURL": "http://5.135.154.69:11590/;stream/1",
      "imageURL": "metal-onlineRadio-8",
-     "desc": "Sick World Radio",
+     "desc": "Metal Express Radio",
      "longDesc": ""
      },
      {
@@ -45,30 +45,9 @@
      },
      {
      "name": "Metal Online Radio",
-     "streamURL": "http://192.99.62.212:9964/;stream/1",
-     "imageURL": "metal-onlineRadio-10",
-     "desc": "Metal Rock Radio",
-     "longDesc": ""
-     },
-     {
-     "name": "Metal Online Radio",
      "streamURL": "http://188.40.32.140:8061/;stream/1",
      "imageURL": "metal-onlineRadio-11",
      "desc": "Metal Devastation Radio",
-     "longDesc": ""
-     },
-     {
-     "name": "Metal Online Radio",
-     "streamURL": "http://192.99.62.212:9904/;stream/1",
-     "imageURL": "metal-onlineRadio-12",
-     "desc": "Classic Metal Radio",
-     "longDesc": ""
-     },
-     {
-     "name": "Metal Online Radio",
-     "streamURL": "http://ca.radio-streamhosting.com:8006/;stream/1",
-     "imageURL": "metal-onlineRadio-13",
-     "desc": "Radio Gothic",
      "longDesc": ""
      },
      {
