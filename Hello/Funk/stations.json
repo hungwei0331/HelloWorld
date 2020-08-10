@@ -1,6 +1,13 @@
 {
     "station":
     [
+    {
+     "name": "FM 80 FUNKY MUSIC Radio",
+     "streamURL": "https://streamingv2.shoutcast.com/fm-80",
+     "imageURL": "station-RougeFunk",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Allzic Funk",
      "streamURL": "http://allzic08.ice.infomaniak.ch/allzic11.mp3",
@@ -33,13 +40,6 @@
      "name": "M2 Funk",
      "streamURL": "http://live.m2stream.fr/m2funk-128.mp3",
      "imageURL": "station-M2Funk",
-     "desc": "",
-     "longDesc": ""
-     },
-     {
-     "name": "Rouge Funk",
-     "streamURL": "http://rouge-funk.ice.infomaniak.ch/rouge-funk-128.mp3",
-     "imageURL": "station-RougeFunk",
      "desc": "",
      "longDesc": ""
      },
