@@ -2,13 +2,6 @@
     "station":
     [
      {
-     "name": "KPOP - Aewen Radio",
-     "streamURL": "http://koreaaewen.hwdevstudio.com:8001/mobile",
-     "imageURL": "station-AewenRadio",
-     "desc": "",
-     "longDesc": ""
-     },
-     {
      "name": "KPOP - BigB Radio",
      "streamURL": "http://64.71.79.181:8042/;",
      "imageURL": "station-BigBRadio",
@@ -44,17 +37,10 @@
      "longDesc": ""
      },
      {
-     "name": "KPOP - Mexico",
-     "streamURL": "http://204.12.193.98:8415/;",
+     "name": "KPOP - Only Hit",
+     "streamURL": "https://radio.streemlion.com:2660/;stream/1",
      "imageURL": "station-G-Kpop",
-     "desc": "Kpop Mexico",
-     "longDesc": ""
-     },
-     {
-     "name": "KPOP - Omg Kpop",
-     "streamURL": "http://stream.omgkpop.com:8234/stream",
-     "imageURL": "station-OMGKpop",
-     "desc": "Omg Kpop",
+     "desc": "Only Hit",
      "longDesc": ""
      },
      {
