@@ -3,7 +3,7 @@
     [
      {
      "name": "KPOP - BigB Radio",
-     "streamURL": "http://64.71.79.181:8042/;",
+     "streamURL": "https://antares.dribbcast.com/proxy/kpop?mp=/s",
      "imageURL": "station-BigBRadio",
      "desc": "Big B Radio",
      "longDesc": ""
@@ -38,7 +38,7 @@
      },
      {
      "name": "KPOP - Only Hit",
-     "streamURL": "https://radio.streemlion.com:2660/;stream/1",
+     "streamURL": "https://listen.openstream.co/6037/audio",
      "imageURL": "station-G-Kpop",
      "desc": "Only Hit",
      "longDesc": ""
