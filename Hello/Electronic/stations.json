@@ -3,427 +3,392 @@
     [
      {
      "name": "Ambient",
-     "streamURL": "http://radioapp1st.hwdevstudio.com:9023/",
+     "streamURL": " http://79.111.119.111:8002/ambient",
      "imageURL": "station-radioRC-Ambient",
      "desc": "Radio Caprice",
      "longDesc": ""
      },
      {
      "name": "Ambient Dub",
-     "streamURL": "http://radioapp2nd.hwdevstudio.com:9037/",
+     "streamURL": "http://79.111.14.76:8002/ambientdub",
      "imageURL": "station-radioRC-AmbientDub",
      "desc": "Radio Caprice",
      "longDesc": ""
      },
      {
      "name": "BreakBeat",
-     "streamURL": "http://radioapp3rd.hwdevstudio.com:9051/",
+     "streamURL": "http://79.120.39.202:8002/breakbeat",
      "imageURL": "station-radioRC-BreakBeat",
      "desc": "Radio Caprice",
      "longDesc": ""
      },
      {
      "name": "Chill Out",
-     "streamURL": "http://radioapp2nd.hwdevstudio.com:9067/",
+     "streamURL": "http://79.111.14.76:8002/chillout",
      "imageURL": "station-radioRC-ChillOut",
      "desc": "Radio Caprice",
      "longDesc": ""
      },
      {
      "name": "Chiptune",
-     "streamURL": "http://radioapp1st.hwdevstudio.com:9037/",
+     "streamURL": "http://79.111.119.111:8002/chiptune",
      "imageURL": "station-radioRC-Chiptune",
      "desc": "Radio Caprice",
      "longDesc": ""
      },
      {
      "name": "Club Dance",
-     "streamURL": "http://radioapp1st.hwdevstudio.com:9099/",
+     "streamURL": "http://79.111.119.111:8002/clubdance",
      "imageURL": "station-radioRC-ClubDance",
      "desc": "Radio Caprice",
      "longDesc": ""
      },
      {
-     "name": "Dark Folk",
-     "streamURL": "http://radioapp1st.hwdevstudio.com:9053/",
-     "imageURL": "station-radioRC-DarkFolk",
-     "desc": "Radio Caprice",
-     "longDesc": ""
-     },
-     {
      "name": "Dark Electro / Aggrotech",
-     "streamURL": "http://radioapp3rd.hwdevstudio.com:9091/",
+     "streamURL": "http://79.120.39.202:8002/darkelectro",
      "imageURL": "station-radioRC-DarkElectro",
      "desc": "Radio Caprice",
      "longDesc": ""
      },
      {
      "name": "Dark PSY Trance",
-     "streamURL": "http://radioapp1st.hwdevstudio.com:9057/",
+     "streamURL": "http://79.111.119.111:8002/darkpsytrance",
      "imageURL": "station-radioRC-DarkPSYTrance",
      "desc": "Radio Caprice",
      "longDesc": ""
      },
      {
-     "name": "Deep House",
-     "streamURL": "http://radioapp3rd.hwdevstudio.com:9035/",
-     "imageURL": "station-radioRC-DeepHouse",
-     "desc": "Radio Caprice",
-     "longDesc": ""
-     },
-     {
-     "name": "Disc Jockey",
-     "streamURL": "http://149.202.69.29/listen/ahd929kmb",
-     "imageURL": "station-DJRadio",
-     "desc": "Radio Caprice",
-     "longDesc": ""
-     },
-     {
      "name": "Down Tempo",
-     "streamURL": "http://radioapp4th.hwdevstudio.com:9113/",
+     "streamURL": "http://79.120.77.11:8002/downtempo",
      "imageURL": "station-radioRC-DownTempo",
      "desc": "Radio Caprice",
      "longDesc": ""
      },
      {
      "name": "Dream Trance / House",
-     "streamURL": "http://radioapp3rd.hwdevstudio.com:9029/",
+     "streamURL": "http://79.120.39.202:8002/dreamtrance",
      "imageURL": "station-radioRC-DreamTranceHouse",
      "desc": "Radio Caprice",
      "longDesc": ""
      },
      {
      "name": "Drone Ambient",
-     "streamURL": "http://radioapp1st.hwdevstudio.com:9135/",
+     "streamURL": "http://79.111.119.111:8002/droneambient",
      "imageURL": "station-radioRC-DroneAmbient",
      "desc": "Radio Caprice",
      "longDesc": ""
      },
      {
      "name": "Drum'n'Bass",
-     "streamURL": "http://radioapp2nd.hwdevstudio.com:9065/",
+     "streamURL": "http://79.111.14.76:8002/drumbass",
      "imageURL": "station-radioRC-DRUM&BASS",
      "desc": "Radio Caprice",
      "longDesc": ""
      },
      {
      "name": "DubStep",
-     "streamURL": "http://radioapp3rd.hwdevstudio.com:9015/",
+     "streamURL": "http://79.120.39.202:8002/dubstep",
      "imageURL": "station-radioRC-DubStep",
      "desc": "Radio Caprice",
      "longDesc": ""
      },
      {
      "name": "Dub Techno",
-     "streamURL": "http://radioapp3rd.hwdevstudio.com:9009/",
+     "streamURL": "http://79.120.39.202:8002/dubtechno",
      "imageURL": "station-radioRC-DUBTECHNO",
      "desc": "Radio Caprice",
      "longDesc": ""
      },
      {
      "name": "Electro",
-     "streamURL": "http://radioapp1st.hwdevstudio.com:9063/",
+     "streamURL": "http://79.111.119.111:8002/electro",
      "imageURL": "station-radioRC-Electro",
      "desc": "Radio Caprice",
      "longDesc": ""
      },
      {
      "name": "Electro Clash",
-     "streamURL": "http://radioapp3rd.hwdevstudio.com:9129/",
+     "streamURL": "http://79.120.39.202:8002/electroclash",
      "imageURL": "station-radioRC-ElectroClash",
      "desc": "Radio Caprice",
      "longDesc": ""
      },
      {
      "name": "Electro House",
-     "streamURL": "http://radioapp2nd.hwdevstudio.com:9075/",
+     "streamURL": "http://79.111.14.76:8002/electrohouse",
      "imageURL": "station-radioRC-electroHouse",
      "desc": "Radio Caprice",
      "longDesc": ""
      },
      {
      "name": "Electro Industrial",
-     "streamURL": "http://radioapp1st.hwdevstudio.com:9127/",
+     "streamURL": "http://79.111.119.111:8002/electroindustrial",
      "imageURL": "station-radioRC-ElectroIndustrial",
      "desc": "Radio Caprice",
      "longDesc": ""
      },
      {
      "name": "Electronic Body Music",
-     "streamURL": "http://radioapp2nd.hwdevstudio.com:9005/",
+     "streamURL": "http://79.111.14.76:8002/ebm",
      "imageURL": "station-radioRC-EBM",
      "desc": "Radio Caprice",
      "longDesc": ""
      },
      {
-     "name": "Electronic Dance Music",
-     "streamURL": "http://s1.edmradio.ru:8000/128",
-     "imageURL": "station-radioRC-EDM",
-     "desc": "Radio Caprice",
-     "longDesc": ""
-     },
-     {
      "name": "Euro House",
-     "streamURL": "http://radioapp1st.hwdevstudio.com:9015/",
+     "streamURL": "http://79.111.119.111:8002/eurohouse",
      "imageURL": "station-radioRC-EuroHouse",
      "desc": "Radio Caprice",
      "longDesc": ""
      },
      {
      "name": "Full On",
-     "streamURL": "http://radioapp2nd.hwdevstudio.com:9019/",
+     "streamURL": "http://79.111.14.76:8002/fullon",
      "imageURL": "station-radioRC-FullOn",
      "desc": "Radio Caprice",
      "longDesc": ""
      },
      {
      "name": "Future Pop",
-     "streamURL": "http://radioapp3rd.hwdevstudio.com:9127/",
+     "streamURL": "http://79.120.39.202:8002/futurepop",
      "imageURL": "station-radioRC-FuturePop",
      "desc": "Radio Caprice",
      "longDesc": ""
      },
      {
      "name": "GOA Trance",
-     "streamURL": "http://radioapp3rd.hwdevstudio.com:9105/",
+     "streamURL": "http://79.120.39.202:8002/goatrance",
      "imageURL": "station-radioRC-GOATrance",
      "desc": "Radio Caprice",
      "longDesc": ""
      },
      {
      "name": "Glitch",
-     "streamURL": "http://radioapp2nd.hwdevstudio.com:9129/",
+     "streamURL": "http://79.111.14.76:8002/glitch",
      "imageURL": "station-radioRC-Glitch",
      "desc": "Radio Caprice",
      "longDesc": ""
      },
      {
      "name": "Grime",
-     "streamURL": "http://radioapp4th.hwdevstudio.com:9125/",
+     "streamURL": "http://79.120.77.11:8002/grime",
      "imageURL": "station-radioRC-Grime",
      "desc": "Radio Caprice",
      "longDesc": ""
      },
      {
      "name": "Happy / UK Hardcore",
-     "streamURL": "http://radioapp4th.hwdevstudio.com:9123/",
+     "streamURL": "http://79.120.77.11:8002/happyhardcore",
      "imageURL": "station-radioRC-Happy",
      "desc": "Radio Caprice",
      "longDesc": ""
      },
      {
      "name": "Hard Style",
-     "streamURL": "http://radioapp2nd.hwdevstudio.com:9063/",
+     "streamURL": "http://79.111.14.76:8002/hardstyle",
      "imageURL": "station-radioRC-hardStyle",
      "desc": "Radio Caprice",
      "longDesc": ""
      },
      {
      "name": "House",
-     "streamURL": "http://radioapp4th.hwdevstudio.com:9069/",
+     "streamURL": "http://79.120.77.11:8002/house",
      "imageURL": "station-radioRC-House",
      "desc": "Radio Caprice",
      "longDesc": ""
      },
      {
-     "name": "Indie Electronic / New Wave",
-     "streamURL": "http://radioapp1st.hwdevstudio.com:9111/",
+     "name": "Indie Electronic / New Rave",
+     "streamURL": "http://79.111.119.111:8002/indieelectronic",
      "imageURL": "station-radioRC-IndieElectronic",
      "desc": "Radio Caprice",
      "longDesc": ""
      },
      {
      "name": "Industrial",
-     "streamURL": "http://radioapp2nd.hwdevstudio.com:9119/",
+     "streamURL": "http://79.111.14.76:8002/industrial",
      "imageURL": "station-radioRC-Industrial",
      "desc": "Radio Caprice",
      "longDesc": ""
      },
      {
      "name": "Industrial Ambient",
-     "streamURL": "http://radioapp3rd.hwdevstudio.com:9095/",
+     "streamURL": "http://79.120.39.202:8002/darkambient",
      "imageURL": "station-radioRC-IndustrialAmbient",
      "desc": "Radio Caprice",
      "longDesc": ""
      },
      {
      "name": "Intelligent Dance Music",
-     "streamURL": "http://radioapp2nd.hwdevstudio.com:9003/",
+     "streamURL": "http://79.111.14.76:8002/idm",
      "imageURL": "station-radioRC-IDM",
      "desc": "Radio Caprice",
      "longDesc": ""
      },
      {
      "name": "Liquid Funk",
-     "streamURL": "http://radioapp1st.hwdevstudio.com:9115/",
+     "streamURL": "http://79.111.119.111:8002/liquidfunk",
      "imageURL": "station-radioRC-LiquidFunk",
      "desc": "Radio Caprice",
      "longDesc": ""
      },
      {
      "name": "Lounge",
-     "streamURL": "http://radioapp2nd.hwdevstudio.com:9059/",
+     "streamURL": "http://79.111.14.76:8002/lounge",
      "imageURL": "station-radioRC-Lounge",
      "desc": "Radio Caprice",
      "longDesc": ""
      },
      {
      "name": "LO-FI",
-     "streamURL": "http://radioapp2nd.hwdevstudio.com:9017/",
+     "streamURL": "http://79.111.14.76:8002/lo-fi",
      "imageURL": "station-radioRC-LO-FI",
      "desc": "Radio Caprice",
      "longDesc": ""
      },
      {
      "name": "Minimal Techno",
-     "streamURL": "http://radioapp3rd.hwdevstudio.com:9005/",
+     "streamURL": "http://79.120.39.202:8002/mintechno",
      "imageURL": "station-radioRC-MinimalTech",
      "desc": "Radio Caprice",
      "longDesc": ""
      },
      {
      "name": "Minimal Tech House",
-     "streamURL": "http://radioapp1st.hwdevstudio.com:9003/",
+     "streamURL": "http://79.111.119.111:8002/mintechhouse",
      "imageURL": "station-radioRC-MinimalTechHouse",
      "desc": "Radio Caprice",
      "longDesc": ""
      },
      {
      "name": "Neuro Funk",
-     "streamURL": "http://radioapp1st.hwdevstudio.com:9117/",
+     "streamURL": "http://79.111.119.111:8002/neurofunk",
      "imageURL": "station-radioRC-NeuroFunk",
      "desc": "Radio Caprice",
      "longDesc": ""
      },
      {
      "name": "New Age",
-     "streamURL": "http://radioapp4th.hwdevstudio.com:9047/",
+     "streamURL": "http://79.120.77.11:8002/newage",
      "imageURL": "station-radioRC-NewAge",
      "desc": "Radio Caprice",
      "longDesc": ""
      },
      {
      "name": "Progressive House",
-     "streamURL": "http://radioapp1st.hwdevstudio.com:9021/",
+     "streamURL": "http://79.111.119.111:8002/proghouse",
      "imageURL": "station-radioRC-progressiveHouse",
      "desc": "Radio Caprice",
      "longDesc": ""
      },
      {
      "name": "PSY Bient",
-     "streamURL": "http://radioapp2nd.hwdevstudio.com:9023/",
+     "streamURL": "http://79.111.14.76:8002/psybient",
      "imageURL": "station-radioRC-PSYBient",
      "desc": "Radio Caprice",
      "longDesc": ""
      },
      {
      "name": "PSY Trance",
-     "streamURL": "http://radioapp1st.hwdevstudio.com:9091/",
+     "streamURL": "http://79.111.119.111:8002/psytrance",
      "imageURL": "station-radioRC-PSYTRANCE",
      "desc": "Radio Caprice",
      "longDesc": ""
      },
      {
-     "name": "PSY / GOA Trance",
-     "streamURL": "http://radio.jointil.net:9986",
-     "imageURL": "electronic-reserveImg-1",
-     "desc": "Joint Radio Beat",
-     "longDesc": ""
-     },
-     {
      "name": "Progressive PSY Trance",
-     "streamURL": "http://radioapp3rd.hwdevstudio.com:9131/",
+     "streamURL": "http://79.120.39.202:8002/psyprog",
      "imageURL": "station-radioRC-progressivePSYTrance",
      "desc": "Radio Caprice",
      "longDesc": ""
      },
      {
      "name": "Progressive Trance",
-     "streamURL": "http://radioapp3rd.hwdevstudio.com:9025/",
+     "streamURL": "http://79.120.39.202:8002/progtrance",
      "imageURL": "station-radioRC-progressiveTrance",
      "desc": "Radio Caprice",
      "longDesc": ""
      },
      {
      "name": "Retro Wave",
-     "streamURL": "http://radioapp3rd.hwdevstudio.com:9125/",
+     "streamURL": "http://79.120.39.202:8002/retrowave",
      "imageURL": "station-radioRC-RetroWave",
      "desc": "Radio Caprice",
      "longDesc": ""
      },
      {
      "name": "Schranz",
-     "streamURL": "http://radioapp3rd.hwdevstudio.com:9001/",
+     "streamURL": "http://79.120.39.202:8002/hardcoretech",
      "imageURL": "station-radioRC-Schranz",
      "desc": "Radio Caprice",
      "longDesc": ""
      },
      {
      "name": "Soulful House",
-     "streamURL": "http://radioapp1st.hwdevstudio.com:9085/",
+     "streamURL": "http://79.111.119.111:8002/soulfulhouse",
      "imageURL": "station-radioRC-SoulfulHouse",
      "desc": "Radio Caprice",
      "longDesc": ""
      },
      {
      "name": "Space Music",
-     "streamURL": "http://radioapp1st.hwdevstudio.com:9105/",
+     "streamURL": "http://79.111.119.111:8002/spacemusic",
      "imageURL": "station-radioRC-SpaceMusic",
      "desc": "Radio Caprice",
      "longDesc": ""
      },
      {
      "name": "Space Synth",
-     "streamURL": "http://radioapp3rd.hwdevstudio.com:9111/",
+     "streamURL": "http://79.120.39.202:8002/spacesynth",
      "imageURL": "station-radioRC-Spacesynth",
      "desc": "Radio Caprice",
      "longDesc": ""
      },
      {
      "name": "Synth Pop",
-     "streamURL": "http://radioapp4th.hwdevstudio.com:9103/",
+     "streamURL": "http://79.120.77.11:8002/synthpop",
      "imageURL": "station-radioRC-SynthPop",
      "desc": "Radio Caprice",
      "longDesc": ""
      },
      {
      "name": "Techno",
-     "streamURL": "http://radioapp4th.hwdevstudio.com:9073/",
+     "streamURL": "http://79.120.77.11:8002/techno",
      "imageURL": "station-radioRC-Techno",
      "desc": "Radio Caprice",
      "longDesc": ""
      },
      {
      "name": "Trance",
-     "streamURL": "http://radioapp4th.hwdevstudio.com:9021/",
+     "streamURL": "http://79.120.77.11:8002/trance",
      "imageURL": "station-radioRC-trance",
      "desc": "Radio Caprice",
      "longDesc": ""
      },
      {
      "name": "Traditional Electronic",
-     "streamURL": "http://radioapp2nd.hwdevstudio.com:9069/",
+     "streamURL": "http://79.111.14.76:8002/tradelectronic",
      "imageURL": "station-radioRC-TraditionalElectronic",
      "desc": "Radio Caprice",
      "longDesc": ""
      },
      {
      "name": "Trip Hop",
-     "streamURL": "http://radioapp2nd.hwdevstudio.com:9013/",
+     "streamURL": "http://79.111.14.76:8002/triphop",
      "imageURL": "station-radioRC-TripHop",
      "desc": "Radio Caprice",
      "longDesc": ""
      },
      {
      "name": "Uplifting Trance",
-     "streamURL": "http://radioapp1st.hwdevstudio.com:9019/",
+     "streamURL": "http://79.111.119.111:8002/upliftingtrance",
      "imageURL": "station-radioRC-upliftingTracne",
      "desc": "Radio Caprice",
      "longDesc": ""
      },
      {
      "name": "Vocal Trance",
-     "streamURL": "http://radioapp3rd.hwdevstudio.com:9031/",
+     "streamURL": "http://79.120.39.202:8002/vocaltrance",
      "imageURL": "station-radioRC-VocalTrance",
      "desc": "Radio Caprice",
      "longDesc": ""
