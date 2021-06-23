@@ -3,14 +3,14 @@
     [
      {
      "name": "Acoustic Blues",
-     "streamURL": "http://79.111.14.76:9071/",
+     "streamURL": "http://79.111.14.76:8002/acousticblues",
      "imageURL": "station-AcousticBlues",
      "desc": "",
      "longDesc": ""
      },
      {
      "name": "Blues",
-     "streamURL": "http://79.120.77.11:9013/",
+     "streamURL": "http://79.120.77.11:8002/blues",
      "imageURL": "station-Blues",
      "desc": "",
      "longDesc": ""
@@ -24,80 +24,115 @@
      },
      {
      "name": "Chicago Blues",
-     "streamURL": "http://79.111.14.76:9091/",
+     "streamURL": "http://79.111.14.76:8002/chicagoblues",
      "imageURL": "station-ChicagoBlues",
      "desc": "",
      "longDesc": ""
      },
      {
      "name": "Country Blues",
-     "streamURL": "http://79.120.77.11:9121/",
+     "streamURL": "http://79.120.77.11:8002/countryblues",
      "imageURL": "station-CountryBlues",
      "desc": "",
      "longDesc": ""
      },
      {
      "name": "Delta Blues",
-     "streamURL": "http://79.120.77.11:9127/",
+     "streamURL": "http://79.120.77.11:8002/deltablues",
      "imageURL": "station-DeltaBlues",
      "desc": "",
      "longDesc": ""
      },
      {
      "name": "Electric Blues",
-     "streamURL": "http://79.111.14.76:9007/",
+     "streamURL": "http://79.111.14.76:8002/electricblues",
      "imageURL": "station-Electric",
      "desc": "",
      "longDesc": ""
      },
      {
      "name": "Funk",
-     "streamURL": "http://79.111.119.111:9061/",
+     "streamURL": "http://79.111.119.111:8002/funk",
      "imageURL": "station-Funk",
      "desc": "",
      "longDesc": ""
      },
      {
-     "name": "Gospel",
-     "streamURL": "http://79.111.14.76:9025/",
-     "imageURL": "station-Gospel",
-     "desc": "",
-     "longDesc": ""
-     },
-     {
-     "name": "Harp Blues",
-     "streamURL": "http://79.120.39.202:9081/",
-     "imageURL": "station-HarpBlues",
-     "desc": "",
-     "longDesc": ""
-     },
+        "name": "Harp Blues",
+        "streamURL": "http://79.120.39.202:8002/harpblues",
+        "imageURL": "station-HarpBlues",
+        "desc": "",
+        "longDesc": ""
+    },
      {
      "name": "Heavy Blues",
-     "streamURL": "http://79.120.77.11:9119/",
+     "streamURL": "http://79.120.77.11:8002/heavyblues",
      "imageURL": "station-HeavyBlues",
      "desc": "",
      "longDesc": ""
      },
      {
+        "name": "Jump Blues",
+        "streamURL": "http://213.141.131.10:8002/jumpblues",
+        "imageURL": "blues-reserveImg-7",
+        "desc": "",
+        "longDesc": ""
+    },
+     {
+        "name": "LOUISIANA  Blues",
+        "streamURL": "http://213.141.131.10:8002/louisianablues",
+        "imageURL": "blues-reserveImg-6",
+        "desc": "",
+        "longDesc": ""
+    },
+     {
      "name": "Neo Soul",
-     "streamURL": "http://79.120.39.202:9061/",
+     "streamURL": "http://79.120.39.202:8002/soul",
      "imageURL": "station-NeoSoul",
      "desc": "",
      "longDesc": ""
      },
      {
+        "name": "Piano Blues",
+        "streamURL": "http://79.111.14.76:8002/pianoblues",
+        "imageURL": "blues-reserveImg-2",
+        "desc": "",
+        "longDesc": ""
+    },
+    {
+        "name": "POP SOUL",
+        "streamURL": "http://213.141.131.10:8002/popsoul",
+        "imageURL": "blues-reserveImg-5",
+        "desc": "",
+        "longDesc": ""
+    },
+     {
      "name": "R'n'B",
-     "streamURL": "http://79.120.77.11:9071/",
+     "streamURL": "http://79.120.77.11:8002/rnb",
      "imageURL": "station-R'n'B",
      "desc": "",
      "longDesc": ""
      },
      {
+        "name": "SLIDE GUITAR",
+        "streamURL": "http://213.141.131.10:8002/slideguitar",
+        "imageURL": "blues-reserveImg-3",
+        "desc": "",
+        "longDesc": ""
+    },
+     {
      "name": "Soul Blues",
-     "streamURL": "http://79.111.14.76:9123/",
+     "streamURL": "http://79.111.14.76:8002/soulblues",
      "imageURL": "station-SoulBlue",
      "desc": "",
      "longDesc": ""
-     }
+     },
+     {
+        "name": "TEXAS BLUES",
+        "streamURL": "http://79.111.14.76:8002/texasblues",
+        "imageURL": "blues-reserveImg-4",
+        "desc": "",
+        "longDesc": ""
+    }
      ]
 }
