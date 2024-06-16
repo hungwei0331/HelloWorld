@@ -37,6 +37,13 @@
      "longDesc": ""
      },
      {
+        "name": "EDM - Joint Radio Beat",
+        "streamURL": "https://jointil.com/stream-beat",
+        "imageURL": "station-radioRC-TMBDJRadio",
+        "desc": "",
+        "longDesc": ""
+    },
+     {
      "name": "EDM - Polymer Radio",
      "streamURL": "http://uk5.internet-radio.com:8185/;stream",
      "imageURL": "station-radioRC-Rhythm86",

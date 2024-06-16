@@ -3,7 +3,7 @@
     [
      {
      "name": "Blues",
-     "streamURL": "http://radio.jointil.net:9992",
+     "streamURL": "https://jointil.com/stream-blues",
      "imageURL": "station-Blues",
      "desc": "Joint Radio",
      "longDesc": ""
@@ -31,7 +31,7 @@
      },
      {
      "name": "EDM",
-     "streamURL": "http://stream.radiobest.eu:8000/192",
+     "streamURL": "https://jointil.com/stream-beat",
      "imageURL": "station-radioRC-BestRadio",
      "desc": "Radio Caprice",
      "longDesc": ""
@@ -129,7 +129,7 @@
      },
      {
      "name": "Reggae",
-     "streamURL": "http://radio.jointil.net:9998",
+     "streamURL": "https://jointil.com/stream-reggae",
      "imageURL": "station-Caprice-Reggae",
      "desc": "Joint Radio",
      "longDesc": ""
